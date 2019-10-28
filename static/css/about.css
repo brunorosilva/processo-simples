@@ -1,0 +1,49 @@
+html{
+    min-height: 100%;
+    overflow: hidden;
+  }
+  body{
+    height: 300px;
+    padding: 100px 0;
+    color: rgba(255,255,255,.75);
+    font-family: 'Anonymous Pro', monospace;  
+    background-color: #ddd;  
+  }
+  #cabecalho{
+      position: relative;
+      overflow: hidden;
+      font-family: 'Anonymous Pro', monospace;
+      color: #000;
+      margin: 0 auto;
+
+      animation: typewriter 4s steps(44) 1s 1 normal both,
+               blinkTextCursor 500ms steps(44) infinite normal;
+  }
+#rodape{
+    position: fixed;
+    text-align: right;
+
+}
+  
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 0px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.min {color: green;}
+.info {color: dodgerblue;}
+.warning {color: orange;}
+.danger {color: red;}
+.default {color: black;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

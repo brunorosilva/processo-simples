@@ -1,0 +1,22 @@
+html{
+    min-height: 100%;
+    overflow: hidden;
+  }
+  body{
+    height: 300px;
+    padding: 100px 0;
+    color: #000;
+    font-family: 'Anonymous Pro', monospace;  
+    background-color: #eee;  
+  }
+  #cabecalho{
+      position: relative;
+      overflow: hidden;
+      font-family: 'Anonymous Pro', monospace;
+      color: #fff;
+      margin: 0 auto;
+  }
+.listas{
+  font-size: 10px;
+  margin-left: 30px;
+}

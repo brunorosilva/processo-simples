@@ -37,11 +37,8 @@ Na aba *General*:
 Name: Nome a sua escolha para ser exibido na área de trabalho do pgAdmin
 
 Na aba *Connection*:
-Hostname/address: ec2-54-163-255-1.compute-1.amazonaws.com
-Maintenance database: ddfmapjn4907hq
-Username: giapbpbxjqtyrj
-Port: 5432
-Password: f827769b81cde6a49779881bf06a122d95e5dddeb4c86ba39738d60e56520011
+Consulte a URL: `https://docs.google.com/document/d/16mN3rEv6tyc3JU4wfIMV0FFty_2dXR0DsU6-wEkUJI0/edit`
+para checar as credenciais do banco.
 
 Na aba *SSL*, marque *SSL mode* como *require*
 

@@ -8,7 +8,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
         integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
         crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="../../quem_somos/Arch4/style.css">
+    <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/busca_processos.css">
     <title>Busca Processos</title>
 </head>
@@ -16,38 +16,36 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <button type="button" class="btn btn-outline-dark"> <i class="fa fa-arrow-circle-left"
-                    style="font-size:24px"></i> Voltar</button>
+            <button type="button" class="btn btn-outline-dark" onclick="window.location.href='../index.html'"> <i
+                    class="fa fa-sign-out" style="font-size:24px"></i> Log Out</button>
         </div>
     </nav>
     <br></br>
-    <container>
-        <h1>
-            Processo
-            <p></p>
-            Simples
-        </h1>
-        <br></br>
-        <h3>
-            Pesquisa de Processos
-        </h3>
-        <br></br>
-        <div class="container">
-            <div class="form-group input-group">
-                <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
-                <button class="btn btn-outline-dark" type="submit"> <i class="fa fa-search"></i></button>
-            </div>
-            <br></br>
-            <ul class="list-group">
-                <li class="list-group-item">N° 1097643.98.876</li>
-                <li class="list-group-item">N° 1085643.98.876</li>
-                <li class="list-group-item">N° 1097653.98.876</li>
-                <li class="list-group-item">N° 1199743.98.876</li>
-                <li class="list-group-item">N° 1197753.98.876</li>
-            </ul>
+
+    <h1>
+        Processo
+        <p></p>
+        Simples
+    </h1>
+    <br></br>
+    <h3>
+        Pesquisa de Processos
+    </h3>
+    <br></br>
+    <div id="context" class="container">
+        <div class="form-group input-group">
+            <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
+            <button class="btn btn-outline-dark" type="submit"> <i class="fa fa-search"></i></button>
         </div>
-    </container>
-    <!-- Footer -->
+        <br></br>
+        <ul class="list-group">
+            <li class="list-group-item">N° 1097643.98.876</li>
+            <li class="list-group-item">N° 1085643.98.876</li>
+            <li class="list-group-item">N° 1097653.98.876</li>
+            <li class="list-group-item">N° 1199743.98.876</li>
+            <li class="list-group-item">N° 1197753.98.876</li>
+        </ul>
+    </div>
     <br></br>
     <footer id="footer" class="page-footer font-small teal pt-4">
 
@@ -91,10 +89,12 @@
 
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">© 2019 Copyright:
-            <a href="https://mdbootstrap.com/education/bootstrap/"> processosimples.com.br</a>
+            <a href="#"> processosimples.com.br</a>
         </div>
         <!-- Copyright -->
 
     </footer>
-    <!-- Footer -->
+
 </body>
+
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/detalhamento_processos.css">
+    <script src="../js/detalhamento_processo.js"></script>
+    <script src="../js/historico_processo.js"></script>
+</head>
+
+<body onload="buildSubTitleOnDetailPage()">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <button type="button" class="btn btn-outline-dark" onclick="window.location.href='./busca_processos.html'">
+                <i class="fa fa-arrow-circle-left" style="font-size:24px"></i> Voltar</button>
+        </div>
+    </nav>
+    <br></br>
+
+    <h1>
+        Detalhamento do
+        <p></p>
+        Processo
+    </h1>
+    <br></br>
+    <div id="processo">
+        <!--Subtítulo com processo-->
+    </div>
+    <br></br>
+    <div id="context" class="container">
+        <div class="row">
+            <div class="col">
+                <h4 style="font-weight: bold">Cliente</h4>
+            </div>
+            <div class="col">
+                <h4>Nome do Cliente</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4 style="font-weight: bold">Encarregado do Processo</h4>
+            </div>
+            <div class="col">
+                <h4>Nome do Encarregado</h4>
+            </div>
+        </div>
+        <br></br>
+        <div>
+            <h4 style="font-weight: bold">
+                Última Atualização
+            </h4>
+            <h4>
+                Detalhes da última atualização do processo
+            </h4>
+        </div>
+        <br></br>
+        <button type="button" id="botao_historico" onclick="goToHistorico()" class="btn btn-secondary btn-lg">Ver
+            Histórico do Processo</button>
+    </div>
+    <br></br>
+    <footer id="footer" class="page-footer font-small teal pt-4">
+
+
+        <div class="container-fluid text-center text-md-left">
+
+
+            <div class="row">
+
+
+                <div class="col-md-6 mt-md-0 mt-3">
+
+
+                    <h5 class="text-uppercase font-weight-bold">Fale Conosco (Telefone)</h5>
+                    <p> Para mais informações você pode entrar em contato com nosso atendimento personalizado
+                        por este número: (11) 99897-7634
+                    </p>
+
+                </div>
+
+
+                <hr class="clearfix w-100 d-md-none pb-3">
+
+
+                <div class="col-md-6 mb-md-0 mb-3">
+
+
+                    <h5 class="text-uppercase font-weight-bold">Fale Conosco (Email)</h5>
+                    <p> Ou então entre em contato via email com a nossa equipe de especialistas utilizando
+                        este email: processosimplesatendimento@procsimples.com.br
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="footer-copyright text-center py-3">© 2019 Copyright:
+            <a href="#"> processosimples.com.br</a>
+        </div>
+
+
+    </footer>
+</body>
+
+</html>

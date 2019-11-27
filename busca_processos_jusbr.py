@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
+import json
 
 processos = ['10144797920148260037',
 '00167189320128260053',
@@ -211,7 +212,12 @@ driver = webdriver.Chrome(options=options)
 
 i = 0
 
-for processo in processos:
+
+
+with open("Tela_inicial_json.txt", "w") as text_file:
+    text_file.write('')
+
+for processo in processos[:3]:
     
     driver.get("https://www.jusbrasil.com.br/consulta-processual/?ref=navbar")
     time.sleep(2)
@@ -221,22 +227,52 @@ for processo in processos:
         pesquisa.send_keys(Keys.RETURN)
         time.sleep(2)        
         infos = driver.find_element_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-aside.col-md-4 > div > div > div:nth-child(2)').text
-        time.sleep(1)
+        time.sleep(2)
         partes = driver.find_element_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-aside.col-md-4 > div > div > div:nth-child(3) > div:nth-child(3)').text
-        time.sleep(1)
+        time.sleep(2)
+        
+        lines = [s.strip() for s in infos.splitlines()]
 
-        with open("Tela_inicial.txt", "a") as text_file:
-            text_file.write(
-                'Processo nº ' + processo + '\n'
-                'Infos\n'+
-                infos.replace(",","__________") +
-                'Partes\n'+ 
-                partes.replace(",","__________"))
+        for line in lines:
+            if line == 'Data de tramitação':
+                pos_data = lines.index(line)
+                date = lines[pos_data+1]
+                
+            if line == 'Natureza':
+                pos_data = lines.index(line)
+                natureza = lines[pos_data+1]
+                
+            if line == 'Área do Direito':
+                pos_data = lines.index(line)
+                area_direito = lines[pos_data+1]
+                
+            if line == 'Assunto':
+                pos_data = lines.index(line)
+                assunto = lines[pos_data+1]
+        
+        ### Criando a estrutura JSON de infos do processo
+
+        data = {}
+        data['Processo'] = []
+        data['Processo'].append({
+            'n': processo,
+            'Data_tramitacao': date,
+            'Natureza': natureza,
+            'Area_direito': area_direito,
+            'Assunto': assunto,
+            'Partes':partes ### arrumar no futuro
+        })
+        
+
+        time.sleep(2)
+        with open("Tela_inicial_json.txt", "a") as text_file:
+            text_file.write(str(data))
             text_file.write("\n\n\n\n\n\n")
-            print("Done ", i+1, "processo nº ", processo)
             i += 1
+            print('done ', i)
     except Exception as e:
         print("Tentando novamente ", i+1)
+        
         time.sleep(1)
 
     

@@ -1,0 +1,18 @@
+{'Processo': [{'n': '10144797920148260037', 'Data_tramitacao': '11/03/2019 a 11/03/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S.A.\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nMarcos Caldas Martins Chagas\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nRicardo Lopes Godoy\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00167189320128260053', 'Data_tramitacao': '03/05/2012 a 16/05/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Warrant', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nRicardo Lopes Godoy\nAdvogado envolvido\nOutras partes\nEdvan Alexandre de Oliveira Brasil\nAdvogado envolvido\nEsther Alegre Trintinela\nExeqte\nGustavo Muff Machado\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00884412120188260100', 'Data_tramitacao': '15/04/2019 a 15/04/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Interpretação / Revisão de Contrato', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcos Caldas Martins Chagas\nAdvogado envolvido\nOutras partes\nJean Carlos Barbi\nExeqte\nJean Carlos Barbi\nAdvogado envolvido\nRafael de Carvalho Baggio\nExeqte'}]}
+
+
+
+
+

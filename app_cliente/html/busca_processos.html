@@ -11,9 +11,10 @@
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/busca_processos.css">
     <script src="../js/detalhamento_processo.js"></script>
+    <script src="../js/busca_processos.js"></script>
 </head>
 
-<body>
+<body onload="loadProcessos()">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <button type="button" class="btn btn-outline-dark" onclick="window.location.href='../index.html'"> <i
@@ -35,36 +36,13 @@
     <div id="context" class="container">
         <div class="form-group input-group">
             <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
-            <button class="btn btn-outline-dark" type="submit"> <i class="fa fa-search"></i></button>
+            <button class="btn btn-outline-dark" onclick="searchProcessos()" type="submit"> <i class="fa fa-search"></i></button>
         </div>
         <br></br>
         <!--Lista deve ser criada utilizando uma api-->
-        <ul class="list-group">
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1097643.98.876</li>
-                <button class="btn btn-outline-success" onclick="goToProcesso('N° 1097643.98.876')" type="submit"> <i class="fa fa-check-square" style="font-size:24px;color:green"></i></button>
-            </div>
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1076443.98.876</li>
-                <button class="btn btn-outline-danger" onclick="goToProcesso('N° 1076443.98.876')" type="submit"> <i class="fa fa-remove" style="font-size:24px;color:red"></i></button>
-            </div>
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1097653.98.876</li>
-                <button class="btn btn-outline-danger" onclick="goToProcesso('N° 1097653.98.876')" type="submit"> <i class="fa fa-remove" style="font-size:24px;color:red"></i></button>
-            </div>
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1098543.98.876</li>
-                <button class="btn btn-outline-danger" onclick="goToProcesso('N° 1098543.98.876')" type="submit"> <i class="fa fa-remove" style="font-size:24px;color:red"></i></button>
-            </div>
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1178643.98.876</li>
-                <button class="btn btn-outline-success" onclick="goToProcesso('N° 1178643.98.876')" type="submit"> <i class="fa fa-check-square" style="font-size:24px;color:green"></i></button>
-            </div>
-            <div class="form-group input-group">
-                <li class="list-group-item">N° 1186643.98.876</li>
-                <button class="btn btn-outline-success" onclick="goToProcesso('N° 1186643.98.876')" type="submit"> <i class="fa fa-check-square" style="font-size:24px;color:green"></i></button>
-            </div>
-        </ul>
+        <div id="lista_processos">
+            <!--Construção da lista em busca_processos.js-->
+        </div>
     </div>
     <br></br>
     <footer id="footer" class="page-footer font-small teal pt-4">

@@ -16,3 +16,1125 @@
 
 
 
+{'Processo': [{'n': '00044473720158260024', 'Data_tramitacao': '21/09/2019 a 21/09/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A (Sucessor de Banco Nossa Caixa S/A)\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A , Incorporador do Banco Nossa Caixa S/A\nExectdo\nGustavo Costa Soares Corazza\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '4429243920078090082', 'Data_tramitacao': '21/09/2019 a 21/09/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Andre Assis Rosa\nBanco do Brasil\nHugo de Oliveira Nascimento\nLuciano Leão\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '00026776120188260587', 'Data_tramitacao': '01/07/2019 a 01/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'Obrigações', 'Partes': 'Parte ré\nBanco do Brasil SA\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nRenata Mesquita Pimentel Vale\nAdvogado envolvido\nOutras partes\nAlexandro Pickler\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00114931020188260077', 'Data_tramitacao': '01/07/2019 a 01/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'Obrigações', 'Partes': 'Banco do Brasil S.A.\nHelio Shimiti Yamakawa\nIlzo Tragueta\nLuciana Gomes Ferreira da Silva\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '01222131920118260100', 'Data_tramitacao': '25/04/2016 a 25/04/2016', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nNorberto Carlos de Godoi\nApelante\nSônia Regina Martins de Oliveira\nAdvogado envolvido\nThiago Merege Pereira\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nApelado\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00288736520118260053', 'Data_tramitacao': '09/08/2011 a 09/04/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Obrigações', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nMichele Petrosino Junior\nAdvogado envolvido\nSylvia Ribeiro Soares\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00288822720118260053', 'Data_tramitacao': '09/08/2011 a 09/04/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Obrigações', 'Partes': 'Banco do Brasil S.A.\nMichele Petrosino Junior\nNei Calderon\nSebastiao Carvalho Silva'}]}
+
+
+
+
+
+{'Processo': [{'n': '00279841420118260053', 'Data_tramitacao': '10/12/2018 a 10/12/2018', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAlcirema Pinheiro Amaral\nAgravante\nAlvaro Tavares\nAgravante\nCyro Costa Junior\nAgravante\nDebora dos Santos Costa Fernandes\nAgravante\nDenise Gonçalves Barbosa\nAgravante'}]}
+
+
+
+
+
+{'Processo': [{'n': '01445644920128260100', 'Data_tramitacao': '31/07/2018 a 31/07/2018', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nElisangela Gomes da Silva\nAdvogado envolvido\nFrancisco Eduardo Nambu\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10035793720178260100', 'Data_tramitacao': '18/01/2017 a 16/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização, Causas Supervenientes à Sentença', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nSany Isabel Rodrigues\nAdvogado envolvido\nSilvio Lopes Carvalho\nPerito\nWagner Aurélio da Rocha\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00030470620188260081', 'Data_tramitacao': '08/04/2019 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários', 'Partes': 'Parte ré\nBanco Nossa Caixa SA\nReqdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAbel Pereira de Matos\nAdvogado envolvido\nAlexandre Lima Ramenzoni\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00094838320198260068', 'Data_tramitacao': '08/04/2019 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários', 'Partes': 'Alexandre Justino de Oliveira\nAndre Barros Verdolini\nBanco do Brasil S.A.\nKing S Fitness Center Academia Ltda - me\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '00004774220138260204', 'Data_tramitacao': '08/04/2019 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários', 'Partes': 'Edy Luiz Ribeiro Deziderio\nLoredana Alves Desidério Fernandes de Oliveira\nMarcelo Oliveira Rocha\nNei Calderon\nViviane Guedes de Sousa Rovina'}]}
+
+
+
+
+
+{'Processo': [{'n': '00280831920128260224', 'Data_tramitacao': '08/04/2019 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários', 'Partes': 'Andrea da Silva Nunes\nMarcelo Oliveira Rocha\nNei Calderon\nNorberto Donizetti Gondim\nVinicius Palotta Machado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00049825220198260047', 'Data_tramitacao': '08/04/2019 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários', 'Partes': 'Ediberto Claas\nFernanda Samira Payão Franco\nMarcelo Oliveira Rocha\nMarcos Campos Dias Payão\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00178694020138260577', 'Data_tramitacao': '08/05/2013 a 31/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação', 'Partes': 'Parte autora\nIngrid Alessandra Caxias Prado\nAdvogado envolvido\nRicardo Araki\nReqte\nParte ré\nBanco do Brasil S/A\nReqdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00464528920128260053', 'Data_tramitacao': '08/05/2013 a 31/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação', 'Partes': 'Banco do Brasil S.A.\nBraz Eid Shahateet\nJacob Muller\nMarcelo Oliveira Rocha\nMateus Eduardo Andrade Gotardi'}]}
+
+
+
+
+
+{'Processo': [{'n': '00036568720138260008', 'Data_tramitacao': '01/03/2013 a 08/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Parte autora\nDeise Gonçalves Hochmuth\nReqte\nMarcus Vinicius Barros de Novaes\nAdvogado envolvido\nNeuza Maria Macedo Madi\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nReqdo\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00529725920128260346', 'Data_tramitacao': '01/03/2013 a 08/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Banco do Brasil\nBanco do Brasil S.A.\nFazenda do Municipio de Martinopolis -sp\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00061191220138260619', 'Data_tramitacao': '13/11/2019 a 13/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nAna Luiza Santello de Oliveira\nAgravante\nDelmar Ruiz Santana\nAgravante\nEden Carlos Vergani\nAgravante\nSaulo Cesar Sartori\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00013192220138260204', 'Data_tramitacao': '13/11/2019 a 13/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Aline Daniela Marques\nEdy Luiz Ribeiro Deziderio\nMarcelo Oliveira Rocha\nNei Calderon\nRafael Otávio Ressude Trindade'}]}
+
+
+
+
+
+{'Processo': [{'n': '00070783220138260053', 'Data_tramitacao': '20/02/2013 a 26/03/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Warrant', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAparecida Moretti Destro\nExeqte\nAparecido Figueiredo Bernardo\nExeqte\nCarlos Roberto Gomes Salgado\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00026810820188260132', 'Data_tramitacao': '04/04/2018 a 09/03/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nAugusta da Costa Banhos\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00172885520138260664', 'Data_tramitacao': '14/09/2017 a 02/07/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte autora\nAdemir Polles Junior\nReqte\nAna Cristina Vargas Caldeira\nAdvogado envolvido\nDanielle Polles Domingues\nReqte\nIzilda Aparecida de Oliveira Polles\nReqte\nJuliana Justi Estevam\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '30034947720138260481', 'Data_tramitacao': '22/10/2018 a 22/10/2018', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nCicera Mauricio Mormito\nAgravante\nJose Pedro da Silva\nAgravante\nMaria Nazare da Silva\nAgravante\nSantina Mambre Doneda\nAgravante'}]}
+
+
+
+
+
+{'Processo': [{'n': '00204457920138260003', 'Data_tramitacao': '08/08/2013 a 01/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nFrancisco Aparecido Cordão\nExeqte\nNelson Mesquita Filho\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '30008013920138260411', 'Data_tramitacao': '08/08/2013 a 01/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Aristides Valezzi\nBanco do Brasil\nBanco do Brasil sa\nDirceu Miranda Junior\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '40035508220138260032', 'Data_tramitacao': '12/12/2013 a 03/07/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos, Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nClovis Eduardo Ruperes Teruel\nExeqte\nJorge Luiz Boatto\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00102229120188260100', 'Data_tramitacao': '21/03/2019 a 21/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlba Pinheiro de Araujo Santisteban\nExeqte\nJoao Santisteban Neto\nExeqte\nMarcus Vinicius Barros de Novaes\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '30008259620138260369', 'Data_tramitacao': '02/10/2013 a 11/02/2015', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAriane Longo Pereira Maia\nAdvogado envolvido\nAtaide Garcia Lopes\nExeqte\nPedro Antonio Padovezi\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '30024884820138260024', 'Data_tramitacao': '25/10/2013 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlex Giron\nAdvogado envolvido\nDaércio Rodrigues Magaine\nAdvogado envolvido\nJoão Rodolfo Hopp\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10039486320148260576', 'Data_tramitacao': '25/10/2013 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nFrancisco Augusto de Oliveira Neto\nJose Mauro Gagliardi\nNei Calderon\nWanderley Oliveira Lima Júnior'}]}
+
+
+
+
+
+{'Processo': [{'n': '10927357520138260100', 'Data_tramitacao': '25/10/2013 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nMarcus Vinicius Barros de Novaes\nNei Calderon\nNeuza Maria Macedo Madi\nOsmar de Goes Maciel'}]}
+
+
+
+
+
+{'Processo': [{'n': '30012925720138260472', 'Data_tramitacao': '13/12/2013 a 25/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nAdriana Cristina Ferraioli\nAdvogado envolvido\nBanco do Brasil S/A\nExectdo\nFabiano Zavanella\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAntonio Falco (Espolio DE)\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00014978920148260024', 'Data_tramitacao': '13/12/2013 a 25/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nEron Francisco Dourado\nJulia Hernandes Louro\nMarcelo Oliveira Rocha\nMarcio Makoto Izumi'}]}
+
+
+
+
+
+{'Processo': [{'n': '00003147220148260060', 'Data_tramitacao': '25/02/2014 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte autora\nMarcia Aparecida Luiz\nAdvogado envolvido\nValdemir Jose Duarte\nReqte\nValdir Campoi\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nReqdo\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '40047588320138260038', 'Data_tramitacao': '25/02/2014 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nComarca de Araras do TJSP\nDonizeti Aparecido Monteiro\nEspólio de José Olívio Sotini\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '10085250420148260053', 'Data_tramitacao': '07/03/2014 a 16/05/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Warrant', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nMaria Lúcia Silveira Rodrigues\nExeqte\nRicardo Barreto Rosolem\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10008745720138260698', 'Data_tramitacao': '07/03/2014 a 16/05/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Warrant', 'Partes': 'Banco do Brasil S.A.\nJosé Camoça\nNei Calderon\nTatiana de Souza Borges'}]}
+
+
+
+
+
+{'Processo': [{'n': '00065672920138260572', 'Data_tramitacao': '24/10/2013 a 27/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte autora\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nCreusa Maria Silveira Borges\nReqte\nMauricio Paulino\nReqte\nShirley Carvalho de Lima\nReqte\nParte ré\nBanco do Brasil SA\nReqdo'}]}
+
+
+
+
+
+{'Processo': [{'n': '00029523820148260526', 'Data_tramitacao': '31/03/2014 a 08/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nMaria Luiza de Toledo Piza\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nJosé Antonio Rodrigues\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10005861820148260038', 'Data_tramitacao': '31/03/2014 a 08/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Aparecido Donizetti Lucas Pereira\nBanco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nComarca de Araras do TJSP\nFelipe Gradim Pimenta'}]}
+
+
+
+
+
+{'Processo': [{'n': '00023097420148260431', 'Data_tramitacao': '26/05/2014 a 06/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Parte ré\nBanco do Brasil S a\nExectda\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nGilcira Garnica\nExeqte\nLuciana Maria de Almeida Ferraz Costa\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10238090820148260100', 'Data_tramitacao': '26/05/2014 a 06/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Banco do Brasil S.A.\nCarlos Adroaldo Ramos Covizzi\nDaisi Sacches Giordani\nEdilson de Moraes Rêgo Filho\nHilda Dias de sá'}]}
+
+
+
+
+
+{'Processo': [{'n': '10038862720148260510', 'Data_tramitacao': '26/05/2014 a 06/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Banco do Brasil S.A.'}]}
+
+
+
+
+
+{'Processo': [{'n': '00098122920148260664', 'Data_tramitacao': '18/11/2016 a 18/11/2016', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nApelante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nElza Castrequini Bufulin\nApelado\nManoela Fernanda Mota Dornelas\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10051787720148260597', 'Data_tramitacao': '16/10/2018 a 16/10/2018', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nIvano Galassi Junior\nAdvogado envolvido\nLuiz Antonio Aparecido de Andrade\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00014166920148260080', 'Data_tramitacao': '30/04/2014 a 04/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nConrado VAZ Guimarães Filho\nExeqte\nRonaldo VAZ Guimaraes Filho\nAdvogado envolvido\nRubens Antonio Alves\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10846561020138260100', 'Data_tramitacao': '30/04/2014 a 04/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nCarlos Adroaldo Ramos Covizzi\nNei Calderon\nPaulo Amaral Amorim\nRaimunda Viggiano do Nascimento'}]}
+
+
+
+
+
+{'Processo': [{'n': '00011049020148260081', 'Data_tramitacao': '27/02/2014 a 23/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte ré\nBanco do Brasil SA\nExectdo\nNelson Wilians Fratoni Rodrigues\nAdvogado envolvido\nOutras partes\nEdson Camello de Aguiar\nExeqte\nMarco Aurélio Camacho Neves\nAdvogado envolvido\nMaria Cristina de Lima Aguiar\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00042856420148260222', 'Data_tramitacao': '27/02/2014 a 23/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Ademir Martinez Gutierrez\nBanco do Brasil S.A.\nEdnilson Bombonato\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00016537720148260024', 'Data_tramitacao': '12/07/2017 a 12/07/2017', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nEron Francisco Dourado\nAdvogado envolvido\nIvone Bombardi\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00007350820148260369', 'Data_tramitacao': '05/03/2014 a 23/04/2015', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S.A. (Sucessor Banco Nossa Caixa S.A.)\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nFabrício José de Avelar\nAdvogado envolvido\nNair Novaes Monteiro\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10741261020148260100', 'Data_tramitacao': '05/03/2014 a 23/04/2015', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nMarcelo Oliveira Rocha\nNei Calderon\nPaulo dos Santos\nRubens Antonio Alves'}]}
+
+
+
+
+
+{'Processo': [{'n': '00066342620148260356', 'Data_tramitacao': '30/09/2014 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nArmando Rodrigo Gonzales Franco\nAdvogado envolvido\nAry Pinhata\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10077185120148260451', 'Data_tramitacao': '30/09/2014 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários', 'Partes': 'Anderson de Campos\nBanco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nDones Manoel de Freitas Nunes da Silva\nFabiano Zavanella'}]}
+
+
+
+
+
+{'Processo': [{'n': '00045907720148260180', 'Data_tramitacao': '30/09/2014 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários', 'Partes': 'Banco do Brasil S.A.\nHenrique Cesar Moreira\nRicardo de Paula'}]}
+
+
+
+
+
+{'Processo': [{'n': '00299234720198260506', 'Data_tramitacao': '30/09/2014 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários', 'Partes': 'Aline Amoroso\nBanco do Brasil S.A.\nCristiane Dultra\nGeraldo Jose Dultra\nJosé Ranulfo Muniz'}]}
+
+
+
+
+
+{'Processo': [{'n': '10065125720148260077', 'Data_tramitacao': '21/10/2014 a 23/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nMarcelo Pedon dos Reis\nPerito\nSergio Geraldo Mari\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10123041520148260037', 'Data_tramitacao': '21/10/2014 a 23/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nEdna Teresinha Colange Perassoli\nGustavo Pavão da Silva\nJosé Antonio Ioca'}]}
+
+
+
+
+
+{'Processo': [{'n': '10067469120148260286', 'Data_tramitacao': '15/10/2014 a 10/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos, Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nIlza Maria da Siva Santos\nExeqte\nRubens Antonio Alves\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10046266420148260322', 'Data_tramitacao': '26/08/2014 a 01/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos, DIREITO DO CONSUMIDOR', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAna Maria da Cruz Silva\nExeqte\nAnisio Sanches Lopes\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00006258920148260407', 'Data_tramitacao': '26/08/2014 a 01/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos, DIREITO DO CONSUMIDOR', 'Partes': 'Banco do Brasil S.A.\nEduardo Mazieiro\nMarcelo Oliveira Rocha\nMaria Claudia Canale\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '10079557720148260001', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Parte autora\nCompanhia de Seguros Aliança do Brasil\nApelante\nFabiano Salineiro\nAdvogado envolvido\nParte ré\nIzidorio Pereira da Silva\nAdvogado envolvido\nVitoria Lopes da Silva\nApelada\nOutras partes\nBanco do Brasil S/A\nInteressado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00034587520148260538', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Banco do Brasil S/a - Bb\nFadi Georges Assy\nMarcelo Oliveira Rocha\nMarta Del Valhe\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00063914820148260238', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Alvino Gabriel Novaes Mendes\nBanco do Brasil S.A.\nMarcelo Oliveira Rocha\nNei Calderon\nSalvador Baciao Gomes'}]}
+
+
+
+
+
+{'Processo': [{'n': '00031657820148260450', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Antonio Carlos Barbosa\nBanco do Brasil S.A.\nJosé Benedito Vieira\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00121754020148260453', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Banco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nFelipe Gradim Pimenta\nIvo Ferro\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '00042615820148260538', 'Data_tramitacao': '14/02/2017 a 14/02/2017', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Seguro', 'Partes': 'Alessandro Henrique Quessada Apolinario\nBanco do Brasil S.A.\nClaudineia Felisberto de Lima\nMarcelo Oliveira Rocha\nMarcos Vinicius Quessada Apolinário'}]}
+
+
+
+
+
+{'Processo': [{'n': '00103507820148260318', 'Data_tramitacao': '31/07/2018 a 31/07/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nApelante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nCarmen Silva Frenedoso Quaglia\nApelado\nCleusa Maria Isabel Frenedoso Quaglia\nApelado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00067975720148260242', 'Data_tramitacao': '03/07/2019 a 03/07/2019', 'Natureza': 'Recurso Inominado Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte autora\nBanco do Brasil S/A\nRecorrente\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nAntonio Carlos Bichuette\nRecorrido\nAntonio Carlos Bichuette\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00016129220138260397', 'Data_tramitacao': '20/08/2013 a 15/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte autora\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nAngela Maria Coelho\nReqte\nGabriel Sinfrônio\nAdvogado envolvido\nThomas Ferreira Messias Lelis\nAdvogado envolvido\nParte ré\nBanco do Brasil SA\nReqdo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10221763120148260562', 'Data_tramitacao': '21/03/2015 a 21/03/2015', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nEspolio de Sabastião Flor\nAgravante\nLinda Flor\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10221763120148260562', 'Data_tramitacao': '21/03/2015 a 21/03/2015', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nEspolio de Sabastião Flor\nAgravante\nLinda Flor\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10143454720148260071', 'Data_tramitacao': '20/08/2014 a 09/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos, Obrigação de Fazer / Não Fazer', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nDirce Delazari Barros Bertolaccini\nAdvogado envolvido\nPaulo Roberto Vieira\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10005944620158260236', 'Data_tramitacao': '26/02/2015 a 27/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Causas Supervenientes à Sentença, Obrigação de Fazer / Não Fazer', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nOrlanda de Juli\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'Data_tramitacao': '10/04/2015 a 22/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nJosé Carlos Antonangelo\nExeqte\nMarcelo Henrique Costa de Oliveira\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00022847220158260125', 'Data_tramitacao': '20/05/2015 a 09/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S.A.\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nCaio Bachiega Angelini\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00025349720158260063', 'Data_tramitacao': '08/05/2015 a 22/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nHerminio Domingues\nExeqte\nValdir Antonio dos Santos\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00029697120158260063', 'Data_tramitacao': '26/05/2015 a 25/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nEverton Aparecido Bugnaro\nExeqte\nSolange Antonia Bugnaro Evaristo\nExeqte\nValdir Antonio dos Santos\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10188867120158260562', 'Data_tramitacao': '23/07/2015 a 08/10/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Bancários, Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nDeolinda Rodrigues DI Jorgi\nAdvogado envolvido\nFrederico Augusto Duarte Oliveira Candido\nAdvogado envolvido\nManoel DI Jorgi\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00031783620158260129', 'Data_tramitacao': '30/07/2015 a 09/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nEduardo Galante Lopes da Cunha\nAdvogado envolvido\nElton Guilherme da Silva\nAdvogado envolvido\nFrancisco Carlos Serrano\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00185467120154036301', 'Data_tramitacao': '30/07/2015 a 09/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Alessandra de Medeiros Nogueira Reis\nAlexandre Torrezan Masserotto\nBanco do Brasil S.A.\nCaixa Econômica Federal\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '10233149620158260562', 'Data_tramitacao': '30/07/2015 a 09/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nFrederico Augusto Duarte Oliveira Candido\nMarcelo Oliveira Rocha\nMaria Fernanda Guimaraes Gonzalez\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00051875920138260575', 'Data_tramitacao': '04/09/2013 a 02/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários, Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nApolinário Advogados Associados\nAdvogado envolvido\nMarcos Vinicius Quessada Apolinário\nAdvogado envolvido\nVerilena Landini DEL Guerra\nReqte\nParte ré\nBanco do Brasil SA\nReqdo\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002657420158260352', 'Data_tramitacao': '04/09/2013 a 02/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários, Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Analice Henrique Jorge\nBanco do Brasil S.a, Sucessor do Banco Nossa Caixa Nosso Banco S.a\nBruno Augusto Gradim Pimenta\nNei Calderon\nRenato de Oliveira Palheiro'}]}
+
+
+
+
+
+{'Processo': [{'n': '00067008920158260220', 'Data_tramitacao': '09/09/2015 a 24/06/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários, Interpretação / Revisão de Contrato', 'Partes': 'Parte autora\nCafé Piraquara LTDA EPP\nReqte\nPublius Ranieri\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nReqdo\nFabiano Zavanella\nAdvogado envolvido\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002359520158260301', 'Data_tramitacao': '09/09/2015 a 24/06/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários, Interpretação / Revisão de Contrato', 'Partes': 'Alexandre Augusto Forcinitti Valera\nBanco do Brasil S.A.\nNei Calderon\nSebastião Franco de Lima Filho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10003172920158260301', 'Data_tramitacao': '22/10/2015 a 03/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nElvis Marques Soares\nPerito\nJosé Maria de Oliveira\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00015037120198260396', 'Data_tramitacao': '22/10/2015 a 03/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'José Guilherme Abrão Jana\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '10006592320158260145', 'Data_tramitacao': '22/10/2015 a 03/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Banco do Brasil S.A.\nCacilda Rodrigues Damasio\nEmílio Cezário Venturelli\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00005545320148260095', 'Data_tramitacao': '14/02/2014 a 15/06/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAna Taboga Guilherme\nExeqte\nGervásio Aparecido Guilherme\nExeqte\nRafael Antonio Madalena\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10004147220158260028', 'Data_tramitacao': '10/05/2019 a 10/05/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBenedito Cesar Moreira de Castro\nAdvogado envolvido\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nGabriela dos Santos Moreira de Castro\nAdvogado envolvido\nValmir José de Siqueira\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10322570520158260562', 'Data_tramitacao': '05/06/2019 a 05/06/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBernard Santos Lima\nAgravante\nBruna dos Santos Lima Nascimento\nAgravante\nFrederico Augusto Duarte Oliveira Candido\nAdvogado envolvido\nJorge de Souza Lima Junior\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10015859520168260071', 'Data_tramitacao': '01/02/2016 a 15/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAdriane Aparecida Barbosa Dall Aglio\nAdvogado envolvido\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nFelipe Gradim Pimenta\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10001727320168260418', 'Data_tramitacao': '09/11/2019 a 09/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAlexandre Augusto Cury\nAdvogado envolvido\nBanco do Brasil S/A\nAgravante\nFrederico Augusto Cury\nAdvogado envolvido\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00005840420158260435', 'Data_tramitacao': '06/03/2015 a 17/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Obrigação de Fazer / Não Fazer', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAna Cristina Canelo Barbosa\nAdvogado envolvido\nValter Marinelli\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10000457720168260696', 'Data_tramitacao': '03/02/2016 a 07/11/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nDaniela Paula Carnielo Garcia Ribeiro\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10012059620168260451', 'Data_tramitacao': '27/01/2016 a 20/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nFrancisco Laerzio Souto\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10068513120168260114', 'Data_tramitacao': '09/08/2019 a 09/08/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nArlinete Araújo Vicentini\nAgravante\nFloriane Pockel Fernandes Copetti\nAdvogado envolvido\nRegina Helena Soares Lenzi\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nAgravado\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10003645920168260368', 'Data_tramitacao': '11/02/2016 a 25/11/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAdelcio Carlos Miola\nAdvogado envolvido\nAlice Guedes de Carvalho\nReqte\nAlzira Messias de Oliveira\nReqte\nAngela Loureiro Castor e Souza\nReqte\nAnna de Carvalho e Souza\nReqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10005018520168260418', 'Data_tramitacao': '09/11/2019 a 09/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nConselho Central de Paraibuna de Sociedade São Vicente de Paulo\nAgravado\nDebora Cantinho Montes\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10004143220168260418', 'Data_tramitacao': '08/03/2016 a 27/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlexandre Augusto Forcinitti Valera\nAdvogado envolvido\nCarmelita Barbosa do Prado\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002143120168260222', 'Data_tramitacao': '10/02/2016 a 24/05/2017', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Levantamento de Valor', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAdemir Zambom\nExeqte\nAparecido Donizeti Ruiz\nAdvogado envolvido\nDaniela DI Fogi Carosio\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002365720158260244', 'Data_tramitacao': '18/11/2019 a 18/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nNEI Calderon\nAdvogado envolvido\nParte ré\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nDenilson Machado Gato\nAgravado\nFelipe Gradim Pimenta\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002726520168260244', 'Data_tramitacao': '18/11/2019 a 18/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nMioko Okuyama Yamamoto\nNei Calderon\nPaulo Henrique Carneiro Barreiros'}]}
+
+
+
+
+
+{'Processo': [{'n': '10001310920168260418', 'Data_tramitacao': '04/02/2016 a 03/07/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S.A.\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nDebora Cantinho Montes\nAdvogado envolvido\nJoao Batista do Prado\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00037995320198260077', 'Data_tramitacao': '04/02/2016 a 03/07/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nMarcelo Oliveira Rocha\nMarcelo Tomazini\nNei Calderon\nRonaldo Cesar Balbo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10006447220168260063', 'Data_tramitacao': '15/08/2019 a 15/08/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nFabiano Zavanella\nAdvogado envolvido\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nRenata França Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10083571420168260576', 'Data_tramitacao': '24/02/2016 a 29/03/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAngelo Luiz Feijó Bazo\nTerintcer\nAngelo Luiz Feijó Bazo\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10001617720168260698', 'Data_tramitacao': '24/02/2016 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização, Obrigação de Fazer / Não Fazer', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAlexandre Carvalho\nExeqte\nCaroline Ardengue de Carvalho\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10044780720168260541', 'Data_tramitacao': '04/12/2018 a 04/12/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAllan Pablo Silva Krause\nAdvogado envolvido\nElza Cestaro Ynayama\nApelante\nHanaí Simone Thomé Scamardi\nAdvogado envolvido\nPaula de Cassia Sandes de Oliveira\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nApelado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10009378420168260534', 'Data_tramitacao': '27/02/2019 a 27/02/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nArtur Watson Silveira\nAdvogado envolvido\nJoaquim Pires de Albuquerque Junior\nApelante\nPaulo Roberto Brunetti\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nApelado\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10309389620168260196', 'Data_tramitacao': '15/12/2016 a 23/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Levantamento de Valor', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nEuler Ribeiro Spinelli\nAdvogado envolvido\nHanaí Simone Thomé Scamardi\nAdvogado envolvido\nRodrigo Pazian Siqueira\nPerito'}]}
+
+
+
+
+
+{'Processo': [{'n': '00029193920178260010', 'Data_tramitacao': '08/05/2019 a 08/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Levantamento de Valor', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nDouglas Janiski\nAdvogado envolvido\nJosefa Nieto Fornet\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'Data_tramitacao': '15/01/2016 a 15/01/2016', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAdriana Raquel Affonso Moretto\nApelante\nCarlos Alberto Moretto\nApelante\nIraci Affonso\nApelante\nRosemeire Aparecida Moretto Sbravitti\nApelante\nParte ré\nBanco do Brasil S/A\nApelado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10041690920178260037', 'Data_tramitacao': '15/01/2016 a 15/01/2016', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Emilio Carlos Montoro\nKatia Regina dos Santos Moraes\nNei Calderon\n‘banco do Brasil S/a'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002410220178260247', 'Data_tramitacao': '10/03/2017 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S.A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAna Paula Delgado de Souza Barroso\nAdvogado envolvido\nLucas Rezende Alaver\nAdvogado envolvido\nMerlene VAZ Sampaio\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10047529120178260037', 'Data_tramitacao': '10/03/2017 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Antonio Carlos Valle\nBanco do Brasil S.A.\nCarolina Ferreira do Val\nEmilio Carlos Montoro\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '10228511720178260100', 'Data_tramitacao': '10/03/2017 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Antonio Jose Abechahin\nBanco do Brasil S.A.\nEvandro José Lago\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00009756520198260128', 'Data_tramitacao': '10/03/2017 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Aluizio Trindade\nBanco do Brasil S.A.\nJoeder Marques Trindade\nMarcelo Oliveira Rocha\nMarlene Lopes Ribeiro Trindade'}]}
+
+
+
+
+
+{'Processo': [{'n': '10254567920178260602', 'Data_tramitacao': '10/03/2017 a 03/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Valor da Execução / Cálculo / Atualização', 'Partes': 'Amadeu Persio Battaglini\nBanco do Brasil S.A.\nGraziela Sasso\nMarcelo Oliveira Rocha\nMarli Elza Battaglini'}]}
+
+
+
+
+
+{'Processo': [{'n': '00002626820198260491', 'Data_tramitacao': '01/11/2019 a 01/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Contratos Bancários', 'Partes': 'Parte autora\nDaniela Ferreira da Silva Soares\nAdvogado envolvido\nPaulo Henrique de Melo\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nDones Manoel de Freitas Nunes da Silva\nAdvogado envolvido\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00284677420198260114', 'Data_tramitacao': '01/11/2019 a 01/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL - Obrigações - Espécies de Contratos - Contratos Bancários', 'Partes': 'Banco do Brasil S.A.\nCaroline Leme Prado de Souza\nNei Calderon\nRoberto Luis Giampietro Bonfa'}]}
+
+
+
+
+
+{'Processo': [{'n': '00104790420188260008', 'Data_tramitacao': '24/04/2019 a 24/04/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL-Coisas-Propriedade-Adjudicação Compulsória', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nEsser Holanda Empreendimentos Imobiliários Ltda.\nExectdo\nJose Henrique de Araujo\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10011830820168260073', 'Data_tramitacao': '11/03/2016 a 26/02/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução, Causas Supervenientes à Sentença', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAdriano Marques\nAdvogado envolvido\nAndre Luiz Francisco SAN Juan\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10001343820168260458', 'Data_tramitacao': '12/02/2016 a 08/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAdriane Aparecida Barbosa Dall Aglio\nAdvogado envolvido\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nFelipe Gradim Pimenta\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10069897520178260077', 'Data_tramitacao': '09/08/2017 a 07/10/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nCésar Rosa Aguiar\nAdvogado envolvido\nEdilson Francisco Gardenal\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10022585220178260104', 'Data_tramitacao': '14/12/2018 a 14/12/2018', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR - Contratos de Consumo - Bancários', 'Partes': 'Parte autora\nAntonio Carlos Bandeira\nAdvogado envolvido\nJair Gragatti Carneiro\nAgravante\nJair Gregatti Carneiro\nReqte\nParte ré\nBanco do Brasil S/A\nAgravado\nDones Manoel de Freitas Nunes da Silva\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10012315220168260077', 'Data_tramitacao': '31/07/2019 a 31/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nCésar Rosa Aguiar\nAdvogado envolvido\nJosé Antonio Contel Anzulim\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAurora Aparecida Salezano Gomes\nInteressado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10038690920178260082', 'Data_tramitacao': '31/07/2019 a 31/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nMarcelo Oliveira Rocha\nMarcio Rosa\nNei Calderon\nPedro Mondanez'}]}
+
+
+
+
+
+{'Processo': [{'n': '00082236620198260004', 'Data_tramitacao': '31/07/2019 a 31/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nClaudio Candido Lemes\nMarcelo Oliveira Rocha\nNei Calderon\nWaldir Beividas'}]}
+
+
+
+
+
+{'Processo': [{'n': '10021667120178260396', 'Data_tramitacao': '07/09/2017 a 24/06/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários, Práticas Abusivas', 'Partes': "Parte autora\nLeandro Marcelo de Lazari D'Adda\nAdvogado envolvido\nMarcelo de Lucca\nAdvogado envolvido\nPecaki Auto Peças LTDA ME\nReqte\nParte ré\nBanco do Brasil S/A\nReqdo\nMarcelo Oliveira Rocha\nAdvogado envolvido"}]}
+
+
+
+
+
+{'Processo': [{'n': '10067920520178260568', 'Data_tramitacao': '20/03/2019 a 20/03/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAntonio Dante Rodrigues Panzeri\nApelante\nGustavo Dias PAZ\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nApelado\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '11270578220178260100', 'Data_tramitacao': '28/02/2019 a 28/02/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR - Contratos de Consumo - Bancários', 'Partes': 'Parte autora\nBanco do Brasil S/A\nApelante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nMaria Ines de Souza Cabral\nAdvogado envolvido\nNadia Osowiec\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10010565220188260218', 'Data_tramitacao': '22/07/2019 a 22/07/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Outras partes\nBanco do Brasil S/A\nApte/apdo\nCelidio Jose de Souza\nApdo/apte\nDanilo Rodrigues Bizarri\nAdvogado envolvido\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10544032720178260576', 'Data_tramitacao': '12/08/2019 a 12/08/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAdib Ismael Madlum\nApelante\nAparecido Donizeti Ruiz\nAdvogado envolvido\nJeferson de Abreu Portari\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nApelado\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00080410320018260363', 'Data_tramitacao': '25/03/2015 a 25/03/2015', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR - Responsabilidade do Fornecedor - Interpretação / Revisão de Contrato', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nCitrocampo Industria e Comercio LTDA\nReqte\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nCitrcampo Indústria e Comercio LTDA\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00007587820198260077', 'Data_tramitacao': '25/03/2015 a 25/03/2015', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR - Responsabilidade do Fornecedor - Interpretação / Revisão de Contrato', 'Partes': 'Banco Nossa Caixa sa\nChristian Neves de Castilho\nLuciana Cristina Bueno de Castilho\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00205631620178260100', 'Data_tramitacao': '27/06/2019 a 27/06/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'Contratos Bancários', 'Partes': 'Parte ré\nBanco Nossa Caixa S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAna Beatriz Carramaschi de Souza\nAdvogado envolvido\nHaru Sakamoto\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10022984720188260347', 'Data_tramitacao': '14/06/2018 a 28/02/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nMarcia Aparecida de Faria Cardoso Silva\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nTatiane Mendes Namura\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002233520188260347', 'Data_tramitacao': '31/07/2019 a 31/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nCecília Torres Masselli\nAgravante\nTeresa Cristina Cavicchioli Piva\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nAgravado\nMarcelo Oliveira Rocha\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10025981720188260506', 'Data_tramitacao': '11/11/2019 a 11/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO CIVIL-Coisas-Promessa de Compra e Venda', 'Partes': 'Parte autora\nBruno Quintiliano Torres\nAdvogado envolvido\nGMR Gradual Realty S/A\nAgravante\nSPE - Reserva Iguatemi Empreendimento Imobiliário LTDA\nAgravante\nVictor Vasconcelos Miranda\nAdvogado envolvido\nOutras partes\nBanco do Brasil S/A\nInteressado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10038228420168260562', 'Data_tramitacao': '22/02/2016 a 11/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nFlávio José Rodrigues Carol\nAdvogado envolvido\nLaurentina Alves Tavares\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00246301920198260564', 'Data_tramitacao': '22/02/2016 a 11/04/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Banco do Brasil S.A.\nClarice Aparecida dos Santos Albarelli\nFernanda Cristina Pereira Costa Nunes\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '10036584620178260575', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nDaniel Batista de Carvalho Sobrinho\nExeqte\nGabriel Franchiosi Borroni\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10036584620178260575', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nDaniel Batista de Carvalho Sobrinho\nExeqte\nGabriel Franchiosi Borroni\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10041832720188260176', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Banco do Brasil S.A.\nCarina Cristina Vieira\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00003948620198260698', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Banco do Brasil S.A.\nMarcelo Oliveira Rocha\nMarcio Antonio Momenti\nMf Transportes Pirangi Eireli me\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00300188920198260114', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Drietto do Brasil Industrial Metálicos Ltda\nNathalia Maria Augusto da Silva\nNei Calderon\nRocha Calderon Advogados Associados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10005787720158260144', 'Data_tramitacao': '13/12/2017 a 26/11/2018', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Antonio Aparecido Simoso\nAntonio Carlos Foguel\nBanco do Brasil S.A.\nBruno Augusto Gradim Pimenta\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '10056285720168260562', 'Data_tramitacao': '07/03/2016 a 06/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nNEI Calderon\nAdvogado envolvido\nOutras partes\nArtur Rivau Junior\nExeqte\nCarla Priscila Correa\nAdvogado envolvido\nGilmar Rodrigues Monteiro\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00061230420198260566', 'Data_tramitacao': '07/03/2016 a 06/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'André Scalli\nBanco Inter S/a\nGustavo Eugênio Sgardioli\nGustavo Henrique dos Santos Viseu\nLuis Gustavo de Paiva Leao'}]}
+
+
+
+
+
+{'Processo': [{'n': '00030409720198260624', 'Data_tramitacao': '24/10/2019 a 24/10/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR - Contratos de Consumo - Bancários', 'Partes': 'Parte autora\nBanco do Brasil S/A\nAgravante\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nParte ré\nAssociação Casa Unimed de Ações Sociais de Tatuí-Sp\nAgravado\nLeandro Eduardo Nunes\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10038173420188260484', 'Data_tramitacao': '26/09/2018 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAntonio Torres Barbeiro\nExeqte\nBruno Augusto Gradim Pimenta\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00674811020198260100', 'Data_tramitacao': '26/09/2018 a 07/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Ana Paula Isildinha Lago\nBanco do Brasil S.A.\nDanilo de sá Ribeiro\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '10004268720168260275', 'Data_tramitacao': '09/03/2016 a 27/06/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Parte ré\nBanco do Brasil S.A.\nExectdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido\nOutras partes\nAdriana Bortoletto dos Santos\nExeqte\nBruna Aparecida Rosa Bortoletto\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10002114020158260698', 'Data_tramitacao': '18/03/2016 a 18/03/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAndre Bolsoni Neto\nAdvogado envolvido\nAparecido Juliani\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00001605420188260047', 'Data_tramitacao': '18/03/2016 a 18/03/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Adriano Athala de Oliveira Shcaira\nAngelo Rodrigues de Brito\nElaine Evangelista\nFernanda Samira Payão Franco\nLuiz Felipe Perrone dos Reis'}]}
+
+
+
+
+
+{'Processo': [{'n': '00011532920198260123', 'Data_tramitacao': '18/03/2016 a 18/03/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil sa\nFrancisco Saccomano Neto\nFrancisco Saverio Saccomano\nMarcelo Oliveira Rocha\nNei Calderon'}]}
+
+
+
+
+
+{'Processo': [{'n': '00035220720198260281', 'Data_tramitacao': '18/03/2016 a 18/03/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nEduardo Roberto Massa Drezza\nEvair Piovesana\nFabiano Zavanella\nFrederico Afonso Izidoro'}]}
+
+
+
+
+
+{'Processo': [{'n': '10006354120188260516', 'Data_tramitacao': '04/12/2018 a 13/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Cédula de Crédito Rural', 'Partes': 'Parte autora\nAlex Donizeth de Matos\nAdvogado envolvido\nJosé Eduardo Ligabo\nReqte\nParte ré\nBanco do Brasil S/A\nReqdo\nMarcelo Oliveira Rocha\nAdvogado envolvido\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00042629620198260011', 'Data_tramitacao': '26/06/2019 a 26/06/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Práticas Abusivas', 'Partes': 'Parte autora\nAna Maria Barbosa Pereira\nAdvogado envolvido\nVera Cassiano Jannini\nReqte\nParte ré\nBanco do Brasil S.A.\nReqdo\nNEI Calderon\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10052004720198260020', 'Data_tramitacao': '13/05/2019 a 16/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Defeito, nulidade ou anulação, Cláusulas Abusivas, Dever de Informação, Empréstimo consignado, Práticas Abusivas', 'Partes': 'Parte autora\nRenata de Faria Menon\nReqte\nSérgio Nascimento\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nReqdo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10014095620198260445', 'Data_tramitacao': '13/11/2019 a 13/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAndre Pimenta Coelho Machado\nAdvogado envolvido\nArtur Watson Silveira\nAdvogado envolvido\nFernanda Carolina Fregadolli Piorino\nAgravante\nMarcos Antonio Piorino\nAgravante\nMaria Aparecida Azevedo Homem de Melo Piorino\nAgravante'}]}
+
+
+
+
+
+{'Processo': [{'n': '10087314220198260344', 'Data_tramitacao': '13/11/2019 a 13/11/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Afonso Bráz\nBanco do Brasil S.a (resp 1.438.263/ Sp\nBanco do Brasil sa\nCaderneta de Poupança\nCampos Mello'}]}
+
+
+
+
+
+{'Processo': [{'n': '10427356120198260100', 'Data_tramitacao': '09/05/2019 a 14/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nOutras partes\nArnaldo Ferrari\nExeqte\nDonizete Martins Garcia\nExeqte\nEstevan Nogueira Pegoraro\nAdvogado envolvido\nFernando Martins\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10088747720198260361', 'Data_tramitacao': '09/05/2019 a 14/05/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Valor da Execução / Cálculo / Atualização', 'Partes': 'Aniete Ribeiro Avila\nArtur Watson Silveira\nBanco do Brasil S.A.\nDulcinéia Campos da Cunha\nHissara Moritugui'}]}
+
+
+
+
+
+{'Processo': [{'n': '00546706520078260576', 'Data_tramitacao': '10/10/2007 a 08/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Bancários, Antecipação de Tutela / Tutela Específica', 'Partes': 'Parte autora\nJ Jepez Rio Preto Indústria e Comércio LTDA ME\nReqte\nKelly Cristina Carfan\nAdvogado envolvido\nValeria Rita de Mello\nAdvogado envolvido\nParte ré\nBanco do Brasil SA\nReqdo\nMarcos Caldas Martins Chagas\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00494548120118260577', 'Data_tramitacao': '09/02/2012 a 30/04/2019', 'Natureza': 'Execução de Título Extrajudicial', 'Area_direito': 'Cível', 'Assunto': 'Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nAndre Guena Reali Fragoso\nAdvogado envolvido\nLuiz Leite\nReqte\nMarco Aurelio Micoli\nReqte\nMaria Aparecida Fátima Rossi\nReqte\nMaria Helena Floriano\nReqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '00088750920128260302', 'Data_tramitacao': '04/07/2018 a 04/07/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nApelante\nMarcos Caldas Martins Chagas\nAdvogado envolvido\nMarina Emilia Baruffi Valente\nAdvogado envolvido\nRicardo Lopes Godoy\nAdvogado envolvido\nParte ré\nAlcides Benedicto Rosseto\nApelado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00318347620118260053', 'Data_tramitacao': '04/07/2018 a 04/07/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Ana Carolina Colocci Zanetti\nBanco do Brasil S.A.\nJose Augusto Falleiros\nMarcos Caldas Martins Chagas\nMarina Emilia Baruffi Valente'}]}
+
+
+
+
+
+{'Processo': [{'n': '00155264720128260079', 'Data_tramitacao': '04/07/2018 a 04/07/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil S.A.\nElvio Benedito Tenori\nFlavia Amaral Costa Losi\nMarcelo Oliveira Rocha\nMarcos Caldas Martins Chagas'}]}
+
+
+
+
+
+{'Processo': [{'n': '00076444820118260506', 'Data_tramitacao': '04/07/2018 a 04/07/2018', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Acacio Alves\nAmelia Fachin Alves\nBanco do Brasil S.A.\nEspolio de Joaquim Alves\nFlavia Steil Abeid'}]}
+
+
+
+
+
+{'Processo': [{'n': '00458152120128260577', 'Data_tramitacao': '16/04/2019 a 16/04/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBanco do Brasil S/A\nApelante\nMarcos Caldas Martins Chagas\nAdvogado envolvido\nRicardo Lopes Godoy\nAdvogado envolvido\nParte ré\nErica Adriana Rosa Caxias de Andrade\nAdvogado envolvido\nSebastião Paulo de Souza Mello\nApelado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00125237920138260037', 'Data_tramitacao': '16/04/2019 a 16/04/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Alexandre Augusto Forcinitti Valera\nBanco do Brasil S.A.\nCleyde Apparecida Suzes\nFrederico Luis Suzes\nKatia Aparecida Suzes Barbosa'}]}
+
+
+
+
+
+{'Processo': [{'n': '30031526320138260482', 'Data_tramitacao': '20/05/2019 a 20/05/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Outras partes\nAdemir Alves\nImpugdo\nAmilton Alves Lobo\nAdvogado envolvido\nAntonio Tomasete\nImpugdo\nArmando Milan Gonçalves\nImpugdo\nBanco do Brasil SA\nImpugte'}]}
+
+
+
+
+
+{'Processo': [{'n': '40041058120138260038', 'Data_tramitacao': '20/05/2019 a 20/05/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nComarca de Araras do TJSP\nDonizeti Aparecido Monteiro\nFelipe Castro\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '40041058120138260038', 'Data_tramitacao': '20/05/2019 a 20/05/2019', 'Natureza': 'Apelação Cível', 'Area_direito': 'Cível', 'Assunto': 'Liquidação / Cumprimento / Execução', 'Partes': 'Banco do Brasil S.A.\nComarca de Araras do TJSP\nDonizeti Aparecido Monteiro\nFelipe Castro\nMarcelo Oliveira Rocha'}]}
+
+
+
+
+
+{'Processo': [{'n': '00121771020148260453', 'Data_tramitacao': '01/07/2019 a 01/07/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nFelipe Gradim Pimenta\nAdvogado envolvido\nMauricio Lazari Camargo\nAgravante\nVanda Cristina Vaccarelli\nAdvogado envolvido\nVanda Cristina Vaccarelli Marini\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10190355520158260566', 'Data_tramitacao': '04/12/2015 a 02/10/2019', 'Natureza': 'Cumprimento de sentença', 'Area_direito': 'Cível', 'Assunto': 'Levantamento de Valor', 'Partes': 'Parte ré\nBanco do Brasil S/A\nExectdo\nMarcos Caldas Martins Chagas\nAdvogado envolvido\nOutras partes\nAlzira Baldo dos Santos\nExeqte\nAmarildo Baldo\nExeqte\nEdivaldo Baldo\nExeqte'}]}
+
+
+
+
+
+{'Processo': [{'n': '10028434920168260554', 'Data_tramitacao': '23/02/2016 a 08/05/2019', 'Natureza': 'Procedimento Comum Cível', 'Area_direito': 'Cível', 'Assunto': 'Indenização por Dano Moral, Bancários', 'Partes': 'Parte autora\nDavid Martin Silvestre\nReqte\nJosé Carlos Fernandes Neri\nAdvogado envolvido\nNoelir Vera Cruz Silvestre\nReqte\nParte ré\nBanco do Brasil S/A\nReqdo\nMarcos Caldas Martins Chagas\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10012982520168260624', 'Data_tramitacao': '23/06/2016 a 23/06/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nLélia Aparecida Lemes de Andrade\nAdvogado envolvido\nRosa Luzia Cattuzzo\nAdvogado envolvido\nTerezinha de Jesus Alvarenga\nAgravante\nParte ré\nBanco do Brasil S/A\nAgravado\nSEM Advogado\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '00026554820198260011', 'Data_tramitacao': '17/05/2019 a 17/05/2019', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'Perdas e Danos', 'Partes': 'Parte ré\nBanco Santander (Brasil) S/A\nExectdo\nBanco do Brasil S/A\nExectdo\nElísia Helena de Melo Martini\nAdvogado envolvido\nFerreira e Chagas Advogados\nAdvogado envolvido\nHenrique José Parada Simão\nAdvogado envolvido'}]}
+
+
+
+
+
+{'Processo': [{'n': '10000950820168260275', 'Data_tramitacao': '18/11/2016 a 18/11/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Parte autora\nBruno Augusto Gradim Pimenta\nAdvogado envolvido\nDarci dos Santos Vieira\nAgravante\nFelipe Gradim Pimenta\nAdvogado envolvido\nLuiz Flavio de Almeida\nAdvogado envolvido\nParte ré\nBanco do Brasil S/A\nAgravado'}]}
+
+
+
+
+
+{'Processo': [{'n': '00082220320198260127', 'Data_tramitacao': '18/11/2016 a 18/11/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Ativos S/a.\nBanco do Brasil\nFerreira e Chagas Advogados\nLucas Gomes Batista\nMarino Lima Silva Filho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10067536120198260269', 'Data_tramitacao': '18/11/2016 a 18/11/2016', 'Natureza': 'Agravo de Instrumento', 'Area_direito': 'Cível', 'Assunto': 'DIREITO DO CONSUMIDOR-Contratos de Consumo-Bancários-Expurgos Inflacionários / Planos Econômicos', 'Partes': 'Banco do Brasil sa\nDecio de Campos\nMarcelo Oliveira Rocha\nNei Calderon\nPatricia Fernanda Souto Roza'}]}
+
+
+
+
+

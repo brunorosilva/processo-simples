@@ -29,8 +29,8 @@ function createTemplateListaProcessos(lista_processos) {
             var liTag = 
             `<div class="form-group input-group">
                 <li class="list-group-item">N° ${item}</li>
-                <button class="btn btn-outline-danger" onclick="goToProcesso('N° ${item}')" type="submit"> <i
-                    class="fa fa-remove" style="font-size:24px;color:red"></i></button>
+                <button class="btn btn-outline-secondary" onclick="goToProcesso('N° ${item}')" type="submit"> 
+                    <i class="fa fa-toggle-right" style="font-size:24px;color:black"></i></button>
             </div>`;
     
             var divLiTag = document.createElement("div");

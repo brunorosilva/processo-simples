@@ -9,6 +9,7 @@
         integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./css/index.css">
+    <script src="./js/index.js"></script>
 </head>
 
 <body>
@@ -24,9 +25,9 @@
             <!-- Login Form -->
             <form>
                 <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
-                <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
+                <input type="password" id="password" class="fadeIn third" name="login" placeholder="password">
                 <p></p>
-                <a class="btn btn-primary" href="./html/busca_processos.html" role="button">Login</a>
+                <a class="btn btn-primary" onclick="validationWithApi()" role="button">Login</a>
             </form>
 
             <p></p>

@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/detalhamento_processos.css">
     <script src="../js/detalhamento_processo.js"></script>
-    <script src="../js/historico_processo.js"></script>
 </head>
 
 <body onload="buildSubTitleOnDetailPage()">
@@ -34,30 +33,12 @@
     </div>
     <br></br>
     <div id="context" class="container">
-        <div class="row">
-            <div class="col">
-                <h4 style="font-weight: bold">Cliente</h4>
-            </div>
-            <div class="col">
-                <h4>Nome do Cliente</h4>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <h4 style="font-weight: bold">Encarregado do Processo</h4>
-            </div>
-            <div class="col">
-                <h4>Nome do Encarregado</h4>
-            </div>
+        <div id="info_basicas">
+            <!--Detalhamento do processo-->
         </div>
         <br></br>
-        <div>
-            <h4 style="font-weight: bold">
-                Última Atualização
-            </h4>
-            <h4>
-                Detalhes da última atualização do processo
-            </h4>
+        <div id="assunto">
+            <!--Assunto do processo-->
         </div>
         <br></br>
         <button type="button" id="botao_historico" onclick="goToHistorico()" class="btn btn-secondary btn-lg">Ver

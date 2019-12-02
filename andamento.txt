@@ -1,0 +1,570 @@
+{'Processo': [{'n': '10144797920148260037', 'data': '21/11/2019', 'andamento': 'Publicação • Extraída da página 538 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0407/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Expeça-se guia de levantamento em favor da exequente em relação ao depósito judicial da página 86 e acréscimos, colocando à disposição para retirada. Quanto ao saldo devedor apontado na petição das páginas 277/278, manifeste-se o banco impugnante, em 10 dias, procedendo o depósito judicial, se de acordo. Outrossim, deverá providenciar o recolhimento da taxa judiciária de R$. 1.535,23, para posterior extinção. Intime-se. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), EMILIO CARLOS MONTORO (OAB 68800/ SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/11/2019', 'andamento': 'Publicação • Extraída da página 454 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0387/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Ante a certidão de pág. 274, manifeste-se a parte exequente, em 10 dias, quanto ao regular prosseguimento da execução. P.Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '30/09/2019', 'andamento': 'Publicação • Extraída da página 377 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0335/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Diante do exposto, julgo procedente em parte a impugnação, e condeno o impugnante no pagamento das custas processuais, salários do perito e honorários de advogado de dez por cento sobre o valor apurado na perícia. Considerei mínima a sucumbência da impugnada. Intime-se. - ADV: MARCELO OLIVEIRA ROCHA (OAB 113887/SP), EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/08/2019', 'andamento': 'Publicação • Extraída da página 498 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0292/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Expeça-se guia de levantamento em favor do perito, colocando à disposição. Digam as partes sobre o laudo pericial, em 15 dias. Intime-se. - ADV: RICARDO LOPES GODOY (OAB 321781/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/08/2019', 'andamento': 'Publicação • Extraída da página 447 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0277/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Intime-se o senhor perito para entrega do laudo em 30 dias, sob pena de destituição. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), RICARDO LOPES GODOY (OAB 321781/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '02/05/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0136/2019 Data da Disponibilização: 02/05/2019 Data da Publicação: 03/05/2019 Número do Diário: 2799 Página: 723/728\nPublicação • Extraída da página 728 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCorsega e Sardenha\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0136/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se. - ADV: RICARDO LOPES GODOY (OAB 321781/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '29/04/2019', 'andamento': 'Remetido ao DJE Relação: 0136/2019 Teor do ato: Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP), Ricardo Lopes Godoy (OAB 321781/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/04/2019', 'andamento': 'Despacho Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None\nMensagem Eletrônica (e-mail) Juntada'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '22/04/2019', 'andamento': 'Conclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '18/04/2019', 'andamento': 'Petição Juntada Nº Protocolo: WARQ.19.70049327-0 Tipo da Petição: Petições Diversas Data: 18/04/2019 15:12'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/03/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0094/2019 Data da Disponibilização: 28/03/2019 Data da Publicação: 29/03/2019 Número do Diário: 2777 Página: 489/494\nPublicação • Extraída da página 494 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0094/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se. - ADV: MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/03/2019', 'andamento': 'Remetido ao DJE Relação: 0094/2019 Teor do ato: Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '25/03/2019', 'andamento': 'Despacho Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '13/03/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0075/2019 Data da Disponibilização: 13/03/2019 Data da Publicação: 14/03/2019 Número do Diário: 2766 Página: 500/507\nPublicação • Extraída da página 506 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0075/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Conforme pesquisa o agravo foi julgado, sendo negado provimento, mas não houve o trânsito em julgado. Aguarde-se por mais 60 dias. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/ SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/03/2019', 'andamento': 'Agravo de Instrumento - Acórdão e Demais Peças Juntados - Com Trânsito em Julgado - Agravo Destruído\nConclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/03/2019', 'andamento': 'Processo encaminhado para o Arquivo Termo de Encaminhamento ao Arquivo [Digital]\nProcesso encaminhado para o Arquivo.pdf\nRemetido ao DJE Relação: 0075/2019 Teor do ato: Vistos. Conforme pesquisa o agravo foi julgado, sendo negado provimento, mas não houve o trânsito em julgado. Aguarde-se por mais 60 dias. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)\nExpedido Certidão Certidão de Trânsito em Julgado [Digital]\nExpedido Certidão.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '08/03/2019', 'andamento': 'Despacho Vistos. Conforme pesquisa o agravo foi julgado, sendo negado provimento, mas não houve o trânsito em julgado. Aguarde-se por mais 60 dias. Intime-se.\nDecisão Proferida.-files-andamento-processual-None-None\nDespacho.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/02/2019', 'andamento': 'Conclusos para Despacho\nDocumento Juntado\nCertidão de Cartório Expedida Certidão - Genérica\nCertidão de Cartório Expedida.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '13/02/2019', 'andamento': 'Publicado em Disponibilizado em 12/02/2019 Tipo de publicação: Intimação de Acórdão Número do Diário Eletrônico: 2747'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/02/2019', 'andamento': 'Prazo\nExpedido Certidão Certidão de Publicação de Acórdão [Digital]\nExpedido Certidão.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '08/02/2019', 'andamento': 'Processo encaminhado para o Processamento de Grupos e Câmaras para Intimação do Acórdão - Julgamento Virtual\nJulgado virtualmente Negaram provimento ao recurso. V. U.\nJulgado virtualmente.pdf\nAcórdão registrado Acórdão registrado sob nº 20190000070817, com 14 folhas.'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '01/02/2019', 'andamento': 'Julgamento Virtual Iniciado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/11/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 25/02/2019 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '23/10/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 22/02/2019 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '10/07/2018', 'andamento': 'Certidão de Publicação Expedida Relação :0210/2018 Data da Disponibilização: 10/07/2018 Data da Publicação: 11/07/2018 Número do Diário: 2612 Página: 629/635\nPublicação • Extraída da página 634 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL JOÃO BATISTA RODRIGUES\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0210/2018\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Conforme pesquisa o agravo encontra-se conclusos ao Senhor Relator. Portanto, aguarde-se por mais 180 dias o julgamento. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/07/2018', 'andamento': 'Remetido ao DJE Relação: 0210/2018 Teor do ato: Vistos. Conforme pesquisa o agravo encontra-se conclusos ao Senhor Relator. Portanto, aguarde-se por mais 180 dias o julgamento. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)\nProcesso Suspenso por 6 meses Vistos. Conforme pesquisa o agravo encontra-se conclusos ao Senhor Relator. Portanto, aguarde-se por mais 180 dias o julgamento. Intime-se.\nDecisão Proferida.-files-andamento-processual-None-None\nProcesso Suspenso por 6 meses.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '29/06/2018', 'andamento': 'Conclusos para Despacho\nDecurso de Prazo Certidão - Genérica\nDecurso de Prazo.pdf\nDecisão Proferida.-files-andamento-processual-None-None\nDocumento Juntado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '07/06/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 28/06/2018 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/06/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 27/06/2018 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '02/02/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 15/06/2018 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/12/2017', 'andamento': 'Expedido Certidão - Concluso ao relator CONCLUSÃO DR. JOÃO BATISTA VILHENA\nExpedido Certidão - Concluso ao relator.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '04/12/2017', 'andamento': 'Certidão de Publicação Expedida Relação :0375/2017 Data da Disponibilização: 04/12/2017 Data da Publicação: 05/12/2017 Número do Diário: 2481 Página: 346/355\nPublicação • Extraída da página 353 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0375/2017\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos.Conforme pesquisa o agravo interposto pelo banco encontra-se suspenso, em decorrência do REsp 1.438.263-SP (tema 948).Contudo, conforme comunicado NUGEP/Presidência 09/2017, referido tema foi cancelado.Portanto, nada impede que as partes interessadas postulem o julgamento do agravo, se for o caso.Aguarde-se por mais 180 dias o julgamento.Intime-se. - ADV: MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '01/12/2017', 'andamento': 'Remetido ao DJE Relação: 0375/2017 Teor do ato: Vistos.Conforme pesquisa o agravo interposto pelo banco encontra-se suspenso, em decorrência do REsp 1.438.263-SP ( tema 948 ).Contudo, conforme comunicado NUGEP/Presidência 09/2017, referido tema foi cancelado.Portanto, nada impede que as partes interessadas postulem o julgamento do agravo, se for o caso.Aguarde-se por mais 180 dias o julgamento.Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '27/11/2017', 'andamento': 'Processo Suspenso por 6 meses Vistos.Conforme pesquisa o agravo interposto pelo banco encontra-se suspenso, em decorrência do REsp 1.438.263-SP ( tema 948 ).Contudo, conforme comunicado NUGEP/Presidência 09/2017, referido tema foi cancelado.Portanto, nada impede que as partes interessadas postulem o julgamento do agravo, se for o caso.Aguarde-se por mais 180 dias o julgamento.Intime-se.\nDecisão Proferida.-files-andamento-processual-None-None\nProcesso Suspenso por 6 meses.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '17/11/2017', 'andamento': 'Reativação de Processo Suspenso\nDocumento Juntado\nDecurso de Prazo Certidão - Genérica\nDecisão Proferida.-files-andamento-processual-None-None\nDecurso de Prazo.pdf\nConclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/09/2017', 'andamento': 'Pedido de Habilitação Juntado Nº Protocolo: WARQ.17.70123380-6 Tipo da Petição: Pedido de Habilitação Data: 26/09/2017 19:00'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '10/04/2017', 'andamento': 'Publicado em Disponibilizado em 07/04/2017 Tipo de publicação: Despacho Número do Diário Eletrônico: 2324'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '07/04/2017', 'andamento': 'Expedido Certidão Certidão de Publicação de Despacho [Digital]\nExpedido Certidão.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '06/04/2017', 'andamento': 'Processo encaminhado para o Processamento de Grupos e Câmaras'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/04/2017', 'andamento': 'Despacho Tendo tomado conhecimento de decisão proferida pelo Ministro Raul Araújo, do Superior Tribunal de Justiça no Resp. nº 1.438.263-SP, no sentido de estar afeto tal recurso à Segunda Seção daquela Corte, para julgamento como recurso repetitivo, isto em conformidade com o art. 543-C, do Código de Processo Civil, bem como do art. 2º, §§1º e 2º e art. 7º, da Resolução STJ nº 8, de 07 de agosto de 2008, decisão esta em que foi determinada a suspensão de recursos que versem sobre a mesma controvérsia apresentada no agora repetitivo, bem como apontou que referida suspensão abrange todos os processos que se encontrem em fase de liquidação ou de cumprimento de sentença, nos quais a questão da legitimidade ativa de não associado ao IDEC para a liquidação/execução da sentença coletiva não tenha recebido solução definitiva. Então, verificando que o presente recurso insere-se na hipótese de suspensão prevista e comandada na forma antes declinada, determino a suspensão deste recurso até o julgamento do repetitivo.\nDespacho.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/11/2016', 'andamento': 'Certidão de Publicação Expedida Relação :0318/2016 Data da Disponibilização: 11/11/2016 Data da Publicação: 16/11/2016 Número do Diário: 2239 Página: 534/539\nPublicação • Extraída da página 539 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0318/2016\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos.Aguarde-se por mais um ano o julgamento do agravo.Intime-se. -ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '09/11/2016', 'andamento': 'Remetido ao DJE Relação: 0318/2016 Teor do ato: Vistos.Aguarde-se por mais um ano o julgamento do agravo.Intime-se. Advogados(s): Nei Calderon (OAB 114904/SP), Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '04/11/2016', 'andamento': 'Processo Suspenso por 1 ano Vistos.Aguarde-se por mais um ano o julgamento do agravo.Intime-se.\nProcesso Suspenso por 1 ano.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '31/10/2016', 'andamento': 'Conclusos para Despacho\nDocumento Juntado\nCertidão de Cartório Expedida Certifico e dou fé que até a presente data não tem notícias quanto ao julgamento definitivo do agravo. Certifico mais, que em consulta eletrônica realizada constatei que o agravo de instrumento n. 2112166-19.8.26.0000, encontra-se conclusos com o relator Dr. João Batista Vilhena.\nCertidão de Cartório Expedida.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/10/2016', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 01/08/2016 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/06/2016', 'andamento': 'Expedido Certidão - Concluso ao relator CONCLUSÃO DR. JOÃO BATISTA VILHENA\nExpedido Certidão - Concluso ao relator.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '25/03/2016', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 22/12/2016 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '14/03/2016', 'andamento': 'Alteração de Relator Orgão Julgador Anterior: 17ª Câmara de Direito Privado Orgão Julgador Novo: 17ª Câmara de Direito Privado Relator Anterior: Tercio Pires Relator Novo: João Batista Vilhena Motivo da alteração: alteração em cumprimento à despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '19/02/2016', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 29/07/2016 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/02/2016', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 25/07/2016 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '13/01/2016', 'andamento': 'Alteração de Relator Orgão Julgador Anterior: 17ª Câmara de Direito Privado Orgão Julgador Novo: 17ª Câmara de Direito Privado Relator Anterior: Ramon Mateo Júnior Relator Novo: Tercio Pires Motivo da alteração: Assumiu o acervo.'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/01/2016', 'andamento': 'Processo encaminhado para o Processamento de Grupos e Câmaras\nDespacho Designado pela Presidência da Seção de Direito Privado (DJE 18/12/15 pg. 41) para assumir e terminar o acervo do Dr. Dimitrios Zarvos Varellis na 35ª Câmara de Direito Privado e dos processos que foram distribuídos ao Dr. Tercio Pires na 12ª Câmara Extraordinária de Direito Privado, cessando as designações anteriores, baixo os presentes autos em Cartório.\nDespacho.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '14/12/2015', 'andamento': 'Conclusos para o Relator\nExpedido Certidão Decurso - Conclusão\nExpedido Certidão.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '27/11/2015', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 08/07/2016 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/08/2015', 'andamento': 'Alteração de Relator Orgão Julgador Anterior: 17ª Câmara de Direito Privado Orgão Julgador Novo: 17ª Câmara de Direito Privado Relator Anterior: Dimitrios Zarvos Varellis Relator Novo: Ramon Mateo Júnior Motivo da alteração: Designado para assumir o acervo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '24/07/2015', 'andamento': 'Alteração de Relator Orgão Julgador Anterior: 17ª Câmara de Direito Privado Orgão Julgador Novo: 17ª Câmara de Direito Privado Relator Anterior: Henrique Nelson Calandra Relator Novo: Dimitrios Zarvos Varellis Motivo da alteração: Designado para assumir o acervo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '21/07/2015', 'andamento': 'Ofício Juntado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '20/07/2015', 'andamento': 'Expedido Certidão Certidão de Transmissão de Email\nExpedido Certidão.pdf\nPrazo'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '14/07/2015', 'andamento': 'Expedido Ofício Modelo de Ofício de Despacho 17ª\nExpedido Ofício.pdf\nPublicado em Disponibilizado em 13/07/2015 Tipo de publicação: Despacho Número do Diário Eletrônico: 1922'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '13/07/2015', 'andamento': 'Expedido Certidão Certidão de Publicação de Despacho [Digital]\nExpedido Certidão.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '08/07/2015', 'andamento': 'Processo encaminhado para o Processamento de Grupos e Câmaras\nDespacho 1- Trata-se de agravo de instrumento interposto nos autos de cumprimento de sentença proferida em Ação Civil Pública ajuizada em 1993 pelo Instituto Brasileiro de Defesa do Consumidor IDEC em face de Nossa Caixa Nosso Banco S/A (incorporado pelo Banco do Brasil S/A), relativa a expurgos inflacionários, demanda que tramitou perante a 6ª Vara da Fazenda Pública da Comarca da Capital (nº 0403263-60.1993.8.26.0053). Vislumbrando o preenchimento dos requisitos necessários, bem como para evitar dano irreparável ou de difícil reparação, concedo o efeito suspensivo, até o julgamento do recurso por esta C. 17ª Câmara. 2- Comunique-se ao MM. Juízo a quo. 3- Dispensadas as informações, como também a contraminuta da parte agravada, tendo em vista o grande número de feitos semelhantes julgados por esta C. Câmara. 4 - Faculto aos interessados manifestação, em cinco dias, de eventual oposição ao julgamento virtual, nos termos do art. 1º da Resolução 549/2011, do Órgão Especial deste Tribunal, publicada no DJe de 25 de agosto de 2011 e em vigor desde 26 de setembro de 2011. Int.\nDespacho.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/06/2015', 'andamento': 'Certidão de Publicação Expedida Relação :0172/2015 Data da Disponibilização: 26/06/2015 Data da Publicação: 29/06/2015 Número do Diário: 1913 Página: 269/273\nPublicação • Extraída da página 273 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nComarca de Araraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ (A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0172/2015\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Em face do agravo interposto pelo impugnante, mantenho por seus próprios fundamentos a decisão. Aguarde-se o julgamento, por um ano. Intime-se. - ADV: NEI CALDERON (OAB 114904/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '24/06/2015', 'andamento': 'Remetido ao DJE Relação: 0172/2015 Teor do ato: Vistos. Em face do agravo interposto pelo impugnante, mantenho por seus próprios fundamentos a decisão. Aguarde-se o julgamento, por um ano. Intime-se. Advogados(s): Nei Calderon (OAB 114904/SP), Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '19/06/2015', 'andamento': 'Processo Suspenso por 1 ano Vistos. Em face do agravo interposto pelo impugnante, mantenho por seus próprios fundamentos a decisão. Aguarde-se o julgamento, por um ano. Intime-se.\nDecisão Proferida.-files-andamento-processual-None-None\nProcesso Suspenso por 1 ano.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '17/06/2015', 'andamento': 'Publicado em Disponibilizado em 16/06/2015 Tipo de publicação: Distribuídos Número do Diário Eletrônico: 1905\nPublicado em Disponibilizado em 16/06/2015 Tipo de publicação: Entrados Número do Diário Eletrônico: 1905'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '16/06/2015', 'andamento': 'Publicação • Extraída da página 110 do Diário de Justiça do Estado de São Paulo - Judicial - 2ª Instância\nSeção III\nSubseção II - Processos Entrados e Dependentes ou não de Preparo\nEntrada Originários - Direito Privado 2\nProcessos Entrados em 08/06/2015\n2112166-19.2015.8.26.0000; Processo Digital. Petições para juntada devem ser apresentadas exclusivamente por meio eletrônico, nos termos do artigo 7º da Res. 551/2011 ; Agravo de Instrumento; Comarca: Araraquara; Vara: 2ª. Vara Cível; Ação : Cumprimento de sentença; Nº origem: 1014479-79.2014.8.26.0037; Assunto: Expurgos Inflacionários / Planos Econômicos; Agravante: Banco do Brasil S.A.; Advogado: Nei Calderon (OAB: 114904/SP); Advogado: Marcelo Oliveira Rocha (OAB: 113887/SP); Agravado: Adilce Conceição Ferreira; Advogado: Emilio Carlos Montoro (OAB: 68800/SP);'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/06/2015', 'andamento': 'Processo encaminhado para a Distribuição de Originários\nProcesso Cadastrado SJ 1.2.3.1 - Serv. de Entrada e Distrib. de Feitos Originários de Dir. Privado 2\nConclusos para o Relator (Expedido Termo com Conclusão) HENRIQUE NELSON CALANDRA\nConclusos para o Relator (Expedido Termo com Conclusão).pdf\nConclusos para Despacho\nDistribuição por Competência Exclusiva Prevenção pela apelação n.9204204-14.2004 Órgão Julgador: 27 - 17ª Câmara de Direito Privado Relator: 11657 - Henrique Nelson Calandra'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/06/2015', 'andamento': 'Agravo de Instrumento - Cópia da Interposição Juntada - Art. 526 do CPC Nº Protocolo: WARQ.15.70041891-6 Tipo da Petição: Petição Juntando Cópia do Agravo (Art. 526, do CPC) Data: 11/06/2015 14:44'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '09/06/2015', 'andamento': 'Decurso de Prazo Certidão - Genérica\nDecisão Proferida.-files-andamento-processual-None-None\nDecurso de Prazo.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '01/06/2015', 'andamento': 'Quesitos/Indicação de Assistente Juntados Nº Protocolo: WARQ.15.70038728-0 Tipo da Petição: Apresentação de Quesitos/Indicação de Assistente Técnico Data: 01/06/2015 10:15'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/05/2015', 'andamento': 'Decurso de Prazo Certidão - Genérica\nDecurso de Prazo.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '25/05/2015', 'andamento': 'Certidão de Publicação Expedida Relação :0139/2015 Data da Disponibilização: 25/05/2015 Data da Publicação: 26/05/2015 Número do Diário: 1891 Página: 317/326\nPublicação • Extraída da página 325 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nComarca de Araraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ (A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0139/2015\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Rejeito as preliminares. A exequente é parte legítima, eis que não precisa comprovar a associação do IDEC para ajuizamento de ação individual para cobrança dos expurgos inflacionários reconhecidos em ação proposta por ele, uma vez que a sentença não individualizou as pessoas que poderiam usufruir da condenação, portanto, sejam elas associadas ou não à entidade, podem se beneficiar da sentença proferida naquele processo. Não é o caso de suspensão da aplicação dos juros moratórios. Prescrição, não há, pois o ajuizamento do presente cumprimento de sentença ocorreu dentro do quinquídio legal, nos termos da Súmula 380 do Superior Tribunal Federal. Este Juízo é o competente para julgar o cumprimento de sentença ajuizado pela exequente, eis que se trata do Foro de seu domicílio e os efeitos e a eficácia da sentença proferida, não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido. Quanto ao alegado excesso de execução, não possuindo esta comarca o setor de Contadoria Judicial, nomeio o contador Denilson Altemari, como perito do Juízo, intimando-o, oportunamente, de sua nomeação. Arbitro seus salários em R$.1.000,00 (hum mil reais), devendo ser antecipado pelo impugnante, em 10 dias, mediante depósito judicial, sob pena de convalidar os cálculos da exequente. Quesitos e assistentes técnicos, em igual prazo. Laudo em 90 dias. Parâmetro para perícia: Os juros remuneratórios, que são inerentes aos contratos bancários, são devidos desde o inadimplemento até o efetivo\npagamento ou seja abril de 2015, mês do depósito judicial do valor postulado na inicial. A correção monetária, com juros capitalizados mensalmente, há de observar os índices da Tabela Prática do Tribunal de Justiça do Estado de São Paulo. Os juros de mora são devidos e iniciam-se a partir da citação ocorrida na ação civil pública. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '21/05/2015', 'andamento': 'Remetido ao DJE Relação: 0139/2015 Teor do ato: Vistos. Rejeito as preliminares. A exequente é parte legítima, eis que não precisa comprovar a associação do IDEC para ajuizamento de ação individual para cobrança dos expurgos inflacionários reconhecidos em ação proposta por ele, uma vez que a sentença não individualizou as pessoas que poderiam usufruir da condenação, portanto, sejam elas associadas ou não à entidade, podem se beneficiar da sentença proferida naquele processo. Não é o caso de suspensão da aplicação dos juros moratórios. Prescrição, não há, pois o ajuizamento do presente cumprimento de sentença ocorreu dentro do quinquídio legal, nos termos da Súmula 380 do Superior Tribunal Federal. Este Juízo é o competente para julgar o cumprimento de sentença ajuizado pela exequente, eis que se trata do Foro de seu domicílio e os efeitos e a eficácia da sentença proferida, não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido. Quanto ao alegado excesso de execução, não possuindo esta comarca o setor de Contadoria Judicial, nomeio o contador Denilson Altemari, como perito do Juízo, intimando-o, oportunamente, de sua nomeação. Arbitro seus salários em R$.1.000,00 ( hum mil reais ), devendo ser antecipado pelo impugnante, em 10 dias, mediante depósito judicial, sob pena de convalidar os cálculos da exequente. Quesitos e assistentes técnicos, em igual prazo. Laudo em 90 dias. Parâmetro para perícia: Os juros remuneratórios, que são inerentes aos contratos bancários, são devidos desde o inadimplemento até o efetivo pagamento ou seja abril de 2015, mês do depósito judicial do valor postulado na inicial. A correção monetária, com juros capitalizados mensalmente, há de observar os índices da Tabela Prática do Tribunal de Justiça do Estado de São Paulo. Os juros de mora são devidos e iniciam-se a partir da citação ocorrida na ação civil pública. Intime-se. Advogados(s): Nei Calderon (OAB 114904/SP), Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '19/05/2015', 'andamento': 'Decisão de Saneamento do Processo Vistos. Rejeito as preliminares. A exequente é parte legítima, eis que não precisa comprovar a associação do IDEC para ajuizamento de ação individual para cobrança dos expurgos inflacionários reconhecidos em ação proposta por ele, uma vez que a sentença não individualizou as pessoas que poderiam usufruir da condenação, portanto, sejam elas associadas ou não à entidade, podem se beneficiar da sentença proferida naquele processo. Não é o caso de suspensão da aplicação dos juros moratórios. Prescrição, não há, pois o ajuizamento do presente cumprimento de sentença ocorreu dentro do quinquídio legal, nos termos da Súmula 380 do Superior Tribunal Federal. Este Juízo é o competente para julgar o cumprimento de sentença ajuizado pela exequente, eis que se trata do Foro de seu domicílio e os efeitos e a eficácia da sentença proferida, não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido. Quanto ao alegado excesso de execução, não possuindo esta comarca o setor de Contadoria Judicial, nomeio o contador Denilson Altemari, como perito do Juízo, intimando-o, oportunamente, de sua nomeação. Arbitro seus salários em R$.1.000,00 ( hum mil reais ), devendo ser antecipado pelo impugnante, em 10 dias, mediante depósito judicial, sob pena de convalidar os cálculos da exequente. Quesitos e assistentes técnicos, em igual prazo. Laudo em 90 dias. Parâmetro para perícia: Os juros remuneratórios, que são inerentes aos contratos bancários, são devidos desde o inadimplemento até o efetivo pagamento ou seja abril de 2015, mês do depósito judicial do valor postulado na inicial. A correção monetária, com juros capitalizados mensalmente, há de observar os índices da Tabela Prática do Tribunal de Justiça do Estado de São Paulo. Os juros de mora são devidos e iniciam-se a partir da citação ocorrida na ação civil pública. Intime-se.\nDecisão de Saneamento do Processo.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/05/2015', 'andamento': 'Conclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '14/05/2015', 'andamento': 'Manifestação Sobre a Impugnação Juntada Nº Protocolo: WARQ.15.70033184-5 Tipo da Petição: Manifestação sobre a Impugnação Data: 13/05/2015 15:55'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/05/2015', 'andamento': 'Certidão de Publicação Expedida Relação :0122/2015 Data da Disponibilização: 11/05/2015 Data da Publicação: 12/05/2015 Número do Diário: 1881 Página: 292/297\nPublicação • Extraída da página 297 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nComarca de Araraquara\nCrediguaçu\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0122/2015\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Recebo a impugnação, com efeito suspensivo, devendo o impugnante providenciar o recolhimento da taxa de procuração, em 15 dias. Em igual prazo, manifeste-se a exequente. Intimese. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '07/05/2015', 'andamento': 'Remetido ao DJE Relação: 0122/2015 Teor do ato: Vistos. Recebo a impugnação, com efeito suspensivo, devendo o impugnante providenciar o recolhimento da taxa de procuração, em 15 dias. Em igual prazo, manifeste-se a exequente. Intime-se. Advogados(s): Nei Calderon (OAB 114904/SP), Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '06/05/2015', 'andamento': 'Despacho Vistos. Recebo a impugnação, com efeito suspensivo, devendo o impugnante providenciar o recolhimento da taxa de procuração, em 15 dias. Em igual prazo, manifeste-se a exequente. Intime-se.\nDecisão Proferida.-files-andamento-processual-None-None\nDespacho.pdf\nAR Positivo Juntado'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '29/04/2015', 'andamento': 'Impugnação ao Cumprimento de Sentença Juntada Nº Protocolo: WARQ.15.70029126-6 Tipo da Petição: Impugnação ao Cumprimento da Sentença Data: 29/04/2015 10:40\nConclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '24/04/2015', 'andamento': 'Certidão de Publicação Expedida Relação :0104/2015 Data da Disponibilização: 24/04/2015 Data da Publicação: 27/04/2015 Número do Diário: 1871 Página: 334/340\nConclusos para Despacho\nPublicação • Extraída da página 340 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nComarca de Araraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0104/2015\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Renove-se a intimação do executado, expedindo-se nova carta. -ADV: EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '23/04/2015', 'andamento': 'Comprovante de Depósito Juntada'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '22/04/2015', 'andamento': 'Remetido ao DJE Relação: 0104/2015 Teor do ato: Vistos. Renove-se a intimação do executado, expedindo-se nova carta. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '17/04/2015', 'andamento': 'Despacho Vistos. Renove-se a intimação do executado, expedindo-se nova carta.\nDecisão Proferida.-files-andamento-processual-None-None\nDespacho.pdf\nCarta de Intimação Expedida Carta - Intimação do Devedor - Cumprimento de Sentença\nCarta de Intimação Expedida.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/04/2015', 'andamento': 'Conclusos para Despacho\nCertidão de Cartório Expedida Certidão - Genérica\nDecisão Proferida.-files-andamento-processual-None-None\nCertidão de Cartório Expedida.pdf'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/02/2015', 'andamento': 'Carta de Intimação Expedida Carta - Intimação do Devedor - Cumprimento de Sentença\nCarta de Intimação Expedida.pdf\nDecisão Proferida.-files-andamento-processual-None-None\nAto Ordinatório - Não Publicável Ato Ordinatório - Genérico - Com Atos e Não Publicável\nAto Ordinatório - Não Publicável.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '10/02/2015', 'andamento': 'Petição Juntada Nº Protocolo: WARQ.15.70007825-2 Tipo da Petição: Petições Diversas Data: 10/02/2015 08:29 Complemento: com guia de recolhimento'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '03/02/2015', 'andamento': 'Certidão de Publicação Expedida Relação :0024/2015 Data da Disponibilização: 03/02/2015 Data da Publicação: 04/02/2015 Número do Diário: 1819 Página: 351/355'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '30/01/2015', 'andamento': 'Remetido ao DJE Relação: 0024/2015 Teor do ato: Vistos. No cumprimento de sentença, não são devidas as custas iniciais no momento da distribuição e tão somente taxa de procuração, despesas postais e emolumentos para impressão de cópia da inicial para contrafé ( R$0,55, por página ). Tratando-se de pequeno valor, providencie a exequente, em 10 dias, o recolhimento. Comprovado, expeça-se carta de intimação do executado, para o pagamento do débito, em 15 dias, sob pena do acréscimo da multa de dez por cento ( 10% ) e posterior penhora. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '29/01/2015', 'andamento': 'Despacho Vistos. No cumprimento de sentença, não são devidas as custas iniciais no momento da distribuição e tão somente taxa de procuração, despesas postais e emolumentos para impressão de cópia da inicial para contrafé ( R$0,55, por página ). Tratando-se de pequeno valor, providencie a exequente, em 10 dias, o recolhimento. Comprovado, expeça-se carta de intimação do executado, para o pagamento do débito, em 15 dias, sob pena do acréscimo da multa de dez por cento ( 10% ) e posterior penhora. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/01/2015', 'andamento': 'Petição Juntada Nº Protocolo: WARQ.15.70003488-3 Tipo da Petição: Petições Diversas Data: 26/01/2015 10:10 Complemento: com juntada de documentos.\nConclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '17/12/2014', 'andamento': 'Certidão de Publicação Expedida Relação :0389/2014 Data da Disponibilização: 17/12/2014 Data da Publicação: 18/12/2014 Número do Diário: 1797 Página: 254/258'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/12/2014', 'andamento': 'Remetido ao DJE Relação: 0389/2014 Teor do ato: Vistos. Para melhor apreciação do pedido de concessão dos benefícios da Justiça Gratuita, providencie a requerente, no prazo de dez(10) dias, a juntada de cópia da última declaração do Imposto de Renda ou, sendo dispensado desta obrigação, de extratos bancários dos últimos três meses, sob pena de indeferimento. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/12/2014', 'andamento': 'Despacho Vistos. Para melhor apreciação do pedido de concessão dos benefícios da Justiça Gratuita, providencie a requerente, no prazo de dez(10) dias, a juntada de cópia da última declaração do Imposto de Renda ou, sendo dispensado desta obrigação, de extratos bancários dos últimos três meses, sob pena de indeferimento. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '10/12/2014', 'andamento': 'Conclusos para Despacho\nDistribuído Livremente (por Sorteio) (movimentação exclusiva do distribuidor)'}]}
+
+
+
+
+

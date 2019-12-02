@@ -1,0 +1,96 @@
+{'Processo': [{'n': '10144797920148260037', 'data': '21/11/2019', 'andamento': 'Publicação • Extraída da página 538 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0407/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Expeça-se guia de levantamento em favor da exequente em relação ao depósito judicial da página 86 e acréscimos, colocando à disposição para retirada. Quanto ao saldo devedor apontado na petição das páginas 277/278, manifeste-se o banco impugnante, em 10 dias, procedendo o depósito judicial, se de acordo. Outrossim, deverá providenciar o recolhimento da taxa judiciária de R$. 1.535,23, para posterior extinção. Intime-se. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), EMILIO CARLOS MONTORO (OAB 68800/ SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '05/11/2019', 'andamento': 'Publicação • Extraída da página 454 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0387/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Ante a certidão de pág. 274, manifeste-se a parte exequente, em 10 dias, quanto ao regular prosseguimento da execução. P.Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '30/09/2019', 'andamento': 'Publicação • Extraída da página 377 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0335/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Diante do exposto, julgo procedente em parte a impugnação, e condeno o impugnante no pagamento das custas processuais, salários do perito e honorários de advogado de dez por cento sobre o valor apurado na perícia. Considerei mínima a sucumbência da impugnada. Intime-se. - ADV: MARCELO OLIVEIRA ROCHA (OAB 113887/SP), EMILIO CARLOS MONTORO (OAB 68800/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/08/2019', 'andamento': 'Publicação • Extraída da página 498 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0292/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Expeça-se guia de levantamento em favor do perito, colocando à disposição. Digam as partes sobre o laudo pericial, em 15 dias. Intime-se. - ADV: RICARDO LOPES GODOY (OAB 321781/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '15/08/2019', 'andamento': 'Publicação • Extraída da página 447 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0277/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Intime-se o senhor perito para entrega do laudo em 30 dias, sob pena de destituição. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), RICARDO LOPES GODOY (OAB 321781/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '02/05/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0136/2019 Data da Disponibilização: 02/05/2019 Data da Publicação: 03/05/2019 Número do Diário: 2799 Página: 723/728\nPublicação • Extraída da página 728 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCorsega e Sardenha\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0136/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se. - ADV: RICARDO LOPES GODOY (OAB 321781/SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '29/04/2019', 'andamento': 'Remetido ao DJE Relação: 0136/2019 Teor do ato: Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP), Ricardo Lopes Godoy (OAB 321781/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/04/2019', 'andamento': 'Despacho Vistos. Intime-se o senhor perito para dar início aos trabalhos, ficando cientes as partes. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None\nMensagem Eletrônica (e-mail) Juntada'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '22/04/2019', 'andamento': 'Conclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '18/04/2019', 'andamento': 'Petição Juntada Nº Protocolo: WARQ.19.70049327-0 Tipo da Petição: Petições Diversas Data: 18/04/2019 15:12'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '28/03/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0094/2019 Data da Disponibilização: 28/03/2019 Data da Publicação: 29/03/2019 Número do Diário: 2777 Página: 489/494\nPublicação • Extraída da página 494 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0094/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se. - ADV: MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP), EMILIO CARLOS MONTORO (OAB 68800/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '26/03/2019', 'andamento': 'Remetido ao DJE Relação: 0094/2019 Teor do ato: Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '25/03/2019', 'andamento': 'Despacho Vistos. Cumpra-se o V. Acórdão. Comprove o banco/impugnante, em 15 dias, o depósito judicial dos salários do perito ( páginas 134/135 ), sob pena de ser convalidado os cálculos da exequente. Intime-se.\nDespacho.pdf\nDecisão Proferida.-files-andamento-processual-None-None'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '13/03/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0075/2019 Data da Disponibilização: 13/03/2019 Data da Publicação: 14/03/2019 Número do Diário: 2766 Página: 500/507\nPublicação • Extraída da página 506 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAraraquara\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO HEITOR LUIZ FERREIRA DO AMPARO\nESCRIVÃ(O) JUDICIAL EDSON ROBERTO SUALDINI\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0075/2019\nProcesso 1014479-79.2014.8.26.0037 - Cumprimento de sentença - Expurgos Inflacionários / Planos Econômicos - ADILCE CONCEIÇÃO FERREIRA - BANCO DO BRASIL S/A - Vistos. Conforme pesquisa o agravo foi julgado, sendo negado provimento, mas não houve o trânsito em julgado. Aguarde-se por mais 60 dias. Intime-se. - ADV: EMILIO CARLOS MONTORO (OAB 68800/ SP), MARCOS CALDAS MARTINS CHAGAS (OAB 303021/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '12/03/2019', 'andamento': 'Agravo de Instrumento - Acórdão e Demais Peças Juntados - Com Trânsito em Julgado - Agravo Destruído\nConclusos para Despacho'}]}
+
+
+
+
+
+{'Processo': [{'n': '10144797920148260037', 'data': '11/03/2019', 'andamento': 'Processo encaminhado para o Arquivo Termo de Encaminhamento ao Arquivo [Digital]\nProcesso encaminhado para o Arquivo.pdf\nRemetido ao DJE Relação: 0075/2019 Teor do ato: Vistos. Conforme pesquisa o agravo foi julgado, sendo negado provimento, mas não houve o trânsito em julgado. Aguarde-se por mais 60 dias. Intime-se. Advogados(s): Emilio Carlos Montoro (OAB 68800/SP), Marcos Caldas Martins Chagas (OAB 303021/SP)\nExpedido Certidão Certidão de Trânsito em Julgado [Digital]\nExpedido Certidão.pdf'}]}
+
+
+
+
+

@@ -1,0 +1,78 @@
+{'Processo': [{'n': '10299387320148260053', 'data': '27/02/2019', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 12/06/2019 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '21/01/2019', 'andamento': 'Certidão de Publicação Expedida Relação :0047/2019 Data da Disponibilização: 21/01/2019 Data da Publicação: 22/01/2019 Número do Diário: 2732 Página: 2257/2358'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '17/01/2019', 'andamento': 'Remetido ao DJE Relação: 0047/2019 Teor do ato: Vistos. Anote-se a interposição de agravo de instrumento. Mantenho a decisão pelos seus próprios fundamentos. Já expedido o mlj a fls. 270/271, aguarde-se o desfecho do agravo. Fls. 279: Nestes autos, discute-se a complementação do depósito. Aguarde-se na fila de "pesquisa", para futuro encaminhamento em lote dos casos de insuficiência ao contador ou ao CEJUSC, tendo em vista a necessidade de se seguir procedimento uniforme de apuração da insuficiência. Int. Advogados(s): Nei Calderon (OAB 114904/SP), Alexandre Augusto Forcinitti Valera (OAB 140741/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '15/01/2019', 'andamento': 'Decisão Vistos. Anote-se a interposição de agravo de instrumento. Mantenho a decisão pelos seus próprios fundamentos. Já expedido o mlj a fls. 270/271, aguarde-se o desfecho do agravo. Fls. 279: Nestes autos, discute-se a complementação do depósito. Aguarde-se na fila de "pesquisa", para futuro encaminhamento em lote dos casos de insuficiência ao contador ou ao CEJUSC, tendo em vista a necessidade de se seguir procedimento uniforme de apuração da insuficiência. Int.'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '20/12/2018', 'andamento': 'Suspensão do Prazo Prazo referente ao usuário foi alterado para 07/05/2019 devido à alteração da tabela de feriados'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '30/11/2018', 'andamento': 'Guia Juntada'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '28/11/2018', 'andamento': 'Conclusos para Decisão'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '19/11/2018', 'andamento': 'Petição Juntada Nº Protocolo: WFPA.18.70472581-6 Tipo da Petição: Petições Diversas Data: 19/11/2018 15:26'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '13/11/2018', 'andamento': 'Certidão de Publicação Expedida Relação :1062/2018 Data da Disponibilização: 13/11/2018 Data da Publicação: 14/11/2018 Número do Diário: 2699 Página: 1426/1445'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '09/11/2018', 'andamento': 'Remetido ao DJE Relação: 1062/2018 Teor do ato: Nada mais sendo requerido no prazo de 60 (sessenta) dias, presumir-se-á a integralidade do pagamento, e a execução será extinta. Advogados(s): Nei Calderon (OAB 114904/SP), Alexandre Augusto Forcinitti Valera (OAB 140741/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '08/11/2018', 'andamento': 'Ato Ordinatório - Publicável Nada mais sendo requerido no prazo de 60 (sessenta) dias, presumir-se-á a integralidade do pagamento, e a execução será extinta.'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '27/10/2018', 'andamento': 'Petição Juntada Nº Protocolo: WFPA.18.70439409-7 Tipo da Petição: Petições Diversas Data: 27/10/2018 11:32'}]}
+
+
+
+
+
+{'Processo': [{'n': '10299387320148260053', 'data': '26/10/2018', 'andamento': 'Certidão de Publicação Expedida Relação :0998/2018 Data da Disponibilização: 26/10/2018 Data da Publicação: 29/10/2018 Número do Diário: 2688 Página: 1310/1365'}]}
+
+
+
+
+

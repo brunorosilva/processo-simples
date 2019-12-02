@@ -207,34 +207,84 @@ preferences = {"download.default_directory": "C:/Users/rodri/Desktop/Projetos/un
 
 options.add_experimental_option("prefs", preferences)
 
-driver = webdriver.Chrome(options=options)
+driver_1 = webdriver.Chrome(options=options)
 
-i = 0
+with open("andamento_2.txt", "w") as text_file:
+    text_file.write('')
 
-for processo in processos:
+def busca_andamento(driver, processos, start=0, stop=len(processos)):
     
-    driver.get("https://www.jusbrasil.com.br/consulta-processual/?ref=navbar")
-    time.sleep(2)
-    try:
-        pesquisa = driver.find_element_by_css_selector("#app-root > div > div > div.Home-section.Home-header > div.Home-header-container > div > div > div > div.SearchForm-wrapper > input")
-        pesquisa.send_keys(processo)
-        pesquisa.send_keys(Keys.RETURN)
-        time.sleep(2)        
-        andamento = driver.find_element_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-main.col-xs-12.col-md-8 > div > div.LawsuitRoot-list > div > div.LawsuitTimeline-list').text
-        time.sleep(1)
-        with open("Andamento.txt", "a") as text_file:
-
-            text_file.write(
-                'Processo nº ' + processo + '\n' + 
-                andamento.replace(",","__________"))
-            text_file.write("\n\n\n\n\n\n")
-            print("Done ", i+1, "processo nº ", processo)
-            i += 1
-
+    i = 0
+    for processo in processos[start:stop]:
         
-    except Exception as e:
-        print("Tentando novamente ", i+1)
-        time.sleep(1)
+        driver.get("https://www.jusbrasil.com.br/consulta-processual/?ref=navbar")
+        time.sleep(2)
+        try:
 
-    
-driver.quit()
+            pesquisa = driver.find_element_by_css_selector("#app-root > div > div > div.Home-section.Home-header > div.Home-header-container > div > div > div > div.SearchForm-wrapper > input")
+            pesquisa.send_keys(processo)
+            pesquisa.send_keys(Keys.RETURN)
+
+            time.sleep(2)        
+
+            SCROLL_PAUSE_TIME = 1
+
+            # Get scroll height
+            last_height = driver.execute_script("return document.body.scrollHeight")
+
+            while True:
+                # Scroll down to bottom
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+                # Wait to load page
+                time.sleep(SCROLL_PAUSE_TIME)
+
+                # Calculate new scroll height and compare with last scroll height
+                new_height = driver.execute_script("return document.body.scrollHeight")
+                if new_height == last_height:
+                    break
+                last_height = new_height
+
+            lista_andamentos = driver.find_elements_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-main.col-xs-12.col-md-8 > div > div.LawsuitRoot-list > div > div.LawsuitTimeline-list > *')
+            
+            childs = 1
+            for item in lista_andamentos:
+
+                andamento = driver.find_element_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-main.col-xs-12.col-md-8 > div > div.LawsuitRoot-list > div > div.LawsuitTimeline-list > div:nth-child(' + str(childs) + ')> div.LawsuitTimeline-documents').text
+                data_alteracao = driver.find_element_by_css_selector('#app-root > div > div > div > div.LawsuitRoot-main.col-xs-12.col-md-8 > div > div.LawsuitRoot-list > div > div.LawsuitTimeline-list > div:nth-child(' + str(childs) + ')> div.LawsuitTimeline-date > span.LawsuitTimeline-date-absolute').text
+
+                time.sleep(1)
+
+                ### Criando a estrutura JSON de infos do processo
+                
+                print(data_alteracao)
+
+                data = {}
+                data['Processo'] = []
+                data['Processo'].append({
+                    'n': processo,
+                    'data': data_alteracao,
+                    'andamento': andamento
+                })
+                
+                time.sleep(2)
+                with open("andamento_2.txt", "a", encoding='utf-8') as text_file:
+                    text_file.write(str(data))
+                    text_file.write("\n\n\n\n\n\n")
+                    i += 1
+                    print('Andamento nº', i, '- sucesso')
+                    
+                childs += 1
+                
+            print('Processo ', i + 1, '- sucesso')
+                
+        except Exception as e:
+            print("Tentando novamente ", i+1)
+            print(e)
+            time.sleep(1)
+            
+            
+        driver.quit()
+
+
+busca_andamento(driver_1, processos, start = 41, stop = 80)

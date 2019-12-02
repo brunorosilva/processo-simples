@@ -1,0 +1,72 @@
+{'Processo': [{'n': '10013271620158260073', 'data': '23/10/2019', 'andamento': 'Publicação • Extraída da página 750 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0976/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Notifique-se o(s) executado(s) para efetuar(em) o recolhimento das custas finais remanescentes, no prazo de sessenta dias, sob pena de inscrição em dívida ativa, conforme disposto no art. 1.098, § 2º. CAP VIII, TOMO I, das NSCGJ. Int. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '09/10/2019', 'andamento': 'Publicação • Extraída da página 771 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0921/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Diga o executado em cinco dias. Int. - ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '17/09/2019', 'andamento': 'Publicação • Extraída da página 841 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0853/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. As custas recolhidas está abaixo do devido. Complemente o recolhimento em 10 dias. Com o transito em julgado da sentença, expeçam-se os mandados de levantamentos determinados e arquive-se. Int. -ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '27/08/2019', 'andamento': 'Publicação • Extraída da página 754 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0778/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Cumpra-se conforme determinado na sentença. Int. - ADV: MARCELO OLIVEIRA ROCHA (OAB 113887/SP), NEI CALDERON (OAB 114904/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/ SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '22/08/2019', 'andamento': 'Publicação • Extraída da página 791 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0759/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vista Para o(a) executado(a) recolher as custas finais apuradas a(s) pág. 263/264, em 10 dias. Taxa Judiciária na guia DARE código 230-6, correspondente a 5,00 UFESP e Taxa de Mandato na guia DARE código 304-9, correspondente a R$93,12 . - ADV: MARCELO OLIVEIRA ROCHA (OAB 113887/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '21/08/2019', 'andamento': 'Publicação • Extraída da página 808 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0756/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. A discordância genérica manifestada a fl. 257 não tem o condão de afastar o cálculo de fl. 257, que obedeceu corretamente os parâmetros previstos na decisão de fls. 116/122 e no acórdão de fls. 197/207, em relação tanto aos índices de correção monetária, como às taxas de juros. Acolho, pois, o cálculo de fl. 257. Diante da quitação do débito (fl. 39), julgo extinta a presente AÇÃO DE EXECUÇÃO DE TÍTULO JUDICIAL, movida por José Carlos Antonangelo em face de Banco do Brasil S/A, nos termos do artigo 924, Inc.II do CPC. Custas pelo executado. Transitada em julgado, expeçase mandado de levantamento da quantia de R$ 2.834,01, em favor do exequente e de R$ 19.059,98, valor excedente, em favor da parte executada. Após, paga as custas em aberto, arquivem-se os autos. P. I.. - ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '07/08/2019', 'andamento': 'Publicação • Extraída da página 805 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0702/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Digam as partes sobre o cálculo do contador. Int. - ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '02/08/2019', 'andamento': 'Publicação • Extraída da página 742 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0685/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Tornem os autos ao contador para verificar se os calculos de fls.227, estão em consonância com o julgado, ante a impugnação posterior do executado. Se estiver em excesso, deverá elaborar os que entende correto. - ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '31/07/2019', 'andamento': 'Publicação • Extraída da página 925 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0672/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Ao contador para conferencia dos cálculos apresentados. Se o caso, deverá elaborar os que considera correto. Int. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '19/07/2019', 'andamento': 'Publicação • Extraída da página 783 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0635/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Esclareça o exequente o que se refere o calculo de fls.227. Int. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '12/07/2019', 'andamento': 'Publicação • Extraída da página 854 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0612/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Ante o silencio do executado, acolho os cálculos de fls.227/228. Requeira a parte exequente o que de direito em termos de prosseguimento. Int. - ADV: NEI CALDERON (OAB 114904/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP)'}]}
+
+
+
+
+
+{'Processo': [{'n': '10013271620158260073', 'data': '26/06/2019', 'andamento': 'Publicação • Extraída da página 744 do Diário de Justiça do Estado de São Paulo - Judicial - 1ª Instância - Interior - Parte I\nAvaré\nCível\n2ª Vara Cível\nJUÍZO DE DIREITO DA 2ª VARA CÍVEL\nJUIZ(A) DE DIREITO LUCIANO JOSÉ FORSTER JUNIOR\nESCRIVÃ(O) JUDICIAL JULIO JORGE DE OLIVEIRA\nEDITAL DE INTIMAÇÃO DE ADVOGADOS\nRelação Nº 0558/2019\nProcesso 1001327-16.2015.8.26.0073 - Cumprimento de sentença - Liquidação / Cumprimento / Execução - José Carlos Antonangelo - Banco do Brasil S/A - Vistos. Fls.227/228 :diga a parte executada. Int. - ADV: MARCELO HENRIQUE COSTA DE OLIVEIRA (OAB 294807/SP), MARCELO OLIVEIRA ROCHA (OAB 113887/SP), NEI CALDERON (OAB 114904/SP)'}]}
+
+
+
+
+

@@ -8,6 +8,11 @@
 
 O objetivo desse repositório é fornecer um espaço de trabalho para a equipe de desenvolvimento de front da plataforma.
 
-## Roadmap
+## Participantes
 
-- 
+- Bruno Rodrigues
+- Bruno Bevilacqua
+- Fábio Milanez
+- Gabriel Bidi
+- Gustavo Urbani
+- Nathalia Galves

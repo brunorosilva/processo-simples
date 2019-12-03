@@ -14,30 +14,27 @@ function goToProcesso(processo) {
 ****Método para criação de template HTML com lista de processos do usuario em questão****
 */
 
-function createTemplateListaProcessos(lista_processos) {
+function createColumnProcess() {
     var ulTag = 
         `<ul class="list-group" id="coluna_processos">
         </ul>`;
-
-    setTimeout(function() {
-        document.getElementById("lista_processos").innerHTML = ulTag;  
-    }, timeoutCreationHtmlList);
-
-    setTimeout(function() {
-        lista_processos.forEach(function(item) {
+    document.getElementById("lista_processos").innerHTML = ulTag;  
     
-            var liTag = 
-            `<div class="form-group input-group">
-                <li class="list-group-item">N° ${item}</li>
-                <button class="btn btn-outline-secondary" onclick="goToProcesso('N° ${item}')" type="submit"> 
-                    <i class="fa fa-toggle-right" style="font-size:24px;color:black"></i></button>
-            </div>`;
-    
-            var divLiTag = document.createElement("div");
-            divLiTag.innerHTML = liTag;
-            document.getElementById("coluna_processos").appendChild(divLiTag);
-        });
-    }, timeoutCreationHtmlList)
+}
+
+function createTemplateListaProcessos(processo) {
+
+    var liTag = 
+    `<div class="form-group input-group">
+        <li class="list-group-item">N° ${processo}</li>
+        <button class="btn btn-outline-secondary" onclick="goToProcesso('N° ${processo}')" type="submit"> 
+            <i class="fa fa-toggle-right" style="font-size:24px;color:black"></i></button>
+    </div>`;
+
+    var divLiTag = document.createElement("div");
+    divLiTag.innerHTML = liTag;
+    document.getElementById("coluna_processos").appendChild(divLiTag);
+
 }
 
 //================================FIM DO TEMPLATE==============================================//
@@ -48,10 +45,10 @@ function createTemplateListaProcessos(lista_processos) {
 
 function loadProcessos() {
     getListaProcessos();
-    createTemplateListaProcessos(todos_processos);
 }
 
 function getListaProcessos() {
+    createColumnProcess();
     fetch('https://app-processa-ai.herokuapp.com/api/Processo/lista_processos/', {
             credentials: "omit"
         })  
@@ -59,6 +56,7 @@ function getListaProcessos() {
         .then(data => {
             var dados = data["data"];
             for(i in dados) {
+                createTemplateListaProcessos(dados[i].n);
                 todos_processos.push(dados[i].n);
             }
         })
@@ -72,6 +70,7 @@ function getListaProcessos() {
 */
 
 function searchProcessos() {
+    createColumnProcess();
     var processoProcurado = document.getElementById("txt_consulta").value;
     var processosEncontrados = [];
 
@@ -87,7 +86,9 @@ function searchProcessos() {
         document.getElementById("lista_processos").innerHTML = '';
         document.getElementById("lista_processos").append(h3Tag);
     } else {
-        createTemplateListaProcessos(processosEncontrados);
+        processosEncontrados.forEach(function(item) {
+            createTemplateListaProcessos(item);
+        })
     }
 }
 

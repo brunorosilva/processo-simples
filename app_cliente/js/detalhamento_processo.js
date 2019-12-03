@@ -65,7 +65,7 @@ function buildSubTitleOnDetailPage() {
     createTemplateHtmlDetails();
 }
 
-//================================FIM DA PARTE DE CONSTRUÇÂO DA PÁGINA=======================//
+//================================FIM DA PARTE DE CONSTRUÇÃO DA PÁGINA=======================//
 
 /* 
 ****Carregamento de processos a partir da api de processos****
